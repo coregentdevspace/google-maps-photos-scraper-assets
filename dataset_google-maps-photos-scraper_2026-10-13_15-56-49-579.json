@@ -1,0 +1,3717 @@
+[{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDxhJ_24QE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_3F1fWHZCgd-MTFmLXZ64LvhD9n2i8QDhi4kSn8N8y6MRN4-JFVOt6Km07QkAOjNXcLCNYPb5Puj2NDU8WXeE9y9-uSkmuErDGbxZTJAVt334_CjZ9UDyXU6EHiivJEOXKrE_l=w16320-h12240-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_3F1fWHZCgd-MTFmLXZ64LvhD9n2i8QDhi4kSn8N8y6MRN4-JFVOt6Km07QkAOjNXcLCNYPb5Puj2NDU8WXeE9y9-uSkmuErDGbxZTJAVt334_CjZ9UDyXU6EHiivJEOXKrE_l=s400-k-no",
+  "width": 16320,
+  "height": 12240,
+  "caption": null,
+  "dateTaken": "2023-05-27",
+  "uploadedAt": "2023-06-01",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Byron Arnao",
+  "contributor": {
+    "name": "Byron Arnao",
+    "profileUrl": "https://www.google.com/maps/contrib/104046596102022730445",
+    "contributorId": "104046596102022730445"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhC2tJhWNxMPO5OaGr1wX09E",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U93l0xNPNtz3z0FcQ81wS7_TQ6_MxS_el40Qyw3mc7hiT562jVnaiqZA-foLJCeVzWq5qbYSyb5zoODnaRQ_C18_7ogSQiBR1QbPopibEb8zph2xXpYycl2fEl5P9qhLH0qkBuoE6a_mZWF=w6120-h6746-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U93l0xNPNtz3z0FcQ81wS7_TQ6_MxS_el40Qyw3mc7hiT562jVnaiqZA-foLJCeVzWq5qbYSyb5zoODnaRQ_C18_7ogSQiBR1QbPopibEb8zph2xXpYycl2fEl5P9qhLH0qkBuoE6a_mZWF=s400-k-no",
+  "width": 6120,
+  "height": 6746,
+  "caption": null,
+  "dateTaken": "2025-08-30",
+  "uploadedAt": "2025-09-02",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Fancy Day",
+  "contributor": {
+    "name": "Fancy Day",
+    "profileUrl": "https://www.google.com/maps/contrib/103398473075021107082",
+    "contributorId": "103398473075021107082"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhCkpIJcBJdFZSo_iEjJfXek",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9cge3sX7SgMpnbJpxq3H-EDqtq9mwDvUCocemZG3OH9YypMxig-NAuuzfFbK3U7uUB2Y8HLiy6UiMhuOF2_DYDnwxCLVc-fZZ99FL5nN9Rrsy08b-oqesErs28RMfNZjy__M33Oc7YDZQq=w5712-h4284-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9cge3sX7SgMpnbJpxq3H-EDqtq9mwDvUCocemZG3OH9YypMxig-NAuuzfFbK3U7uUB2Y8HLiy6UiMhuOF2_DYDnwxCLVc-fZZ99FL5nN9Rrsy08b-oqesErs28RMfNZjy__M33Oc7YDZQq=s400-k-no",
+  "width": 5712,
+  "height": 4284,
+  "caption": null,
+  "dateTaken": "2026-03-24",
+  "uploadedAt": "2026-03-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Kevin",
+  "contributor": {
+    "name": "Kevin",
+    "profileUrl": "https://www.google.com/maps/contrib/101086890597557110161",
+    "contributorId": "101086890597557110161"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhAGbyfQKxEJimfX-KUACS1p",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-O2kaNM0-xSCh7OAs7INZvrY4tu7NxuOecxA8Qe-EieHBudUH38Kig8LPVZbLVAkDxta5DK6ws2Nlg35vIjmF1rM1qztZO-e3B6yX9URhgh67b0toRqVJ19jadY52MDtN2JtqBD-VR2WU=w4000-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-O2kaNM0-xSCh7OAs7INZvrY4tu7NxuOecxA8Qe-EieHBudUH38Kig8LPVZbLVAkDxta5DK6ws2Nlg35vIjmF1rM1qztZO-e3B6yX9URhgh67b0toRqVJ19jadY52MDtN2JtqBD-VR2WU=s400-k-no",
+  "width": 4000,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2025-03-15",
+  "uploadedAt": "2025-03-17",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "NICK O",
+  "contributor": {
+    "name": "NICK O",
+    "profileUrl": "https://www.google.com/maps/contrib/113526361866443181375",
+    "contributorId": "113526361866443181375"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICu2a6JxgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-9ytBX_-nBSh_JSikgWCq18c33RLXaz_D-qu6L95xYtVRC55-KyDfRhnmNh83db-jQZMjATraSsnirvNjuHxSDg0Xb2Xf60Y525LgmWD-VGjKr-TmIc8aDCgo5XEbCvkiGE20gPw=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-9ytBX_-nBSh_JSikgWCq18c33RLXaz_D-qu6L95xYtVRC55-KyDfRhnmNh83db-jQZMjATraSsnirvNjuHxSDg0Xb2Xf60Y525LgmWD-VGjKr-TmIc8aDCgo5XEbCvkiGE20gPw=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-08-01",
+  "uploadedAt": "2022-08-01",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Vivek Ch",
+  "contributor": {
+    "name": "Vivek Ch",
+    "profileUrl": "https://www.google.com/maps/contrib/112745379847122450841",
+    "contributorId": "112745379847122450841"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICM-PT6kwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-VSKqmjQit-iPCkFZ0I7Ddd8ymy2GMnH3kQDN6jyY_E9ql29fe6wfL9jjHcAIgbZqFuuz57CjJd3woQhd577RXZk0N3YS9-etyQv4t2DoEtWpaiVq06IaTz-_Y5NLVqkWkJwgQIw=w2383-h2383-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-VSKqmjQit-iPCkFZ0I7Ddd8ymy2GMnH3kQDN6jyY_E9ql29fe6wfL9jjHcAIgbZqFuuz57CjJd3woQhd577RXZk0N3YS9-etyQv4t2DoEtWpaiVq06IaTz-_Y5NLVqkWkJwgQIw=s400-k-no",
+  "width": 2383,
+  "height": 2383,
+  "caption": null,
+  "dateTaken": "2019-08-19",
+  "uploadedAt": "2019-08-19",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "KS",
+  "contributor": {
+    "name": "KS",
+    "profileUrl": "https://www.google.com/maps/contrib/105274185598987132703",
+    "contributorId": "105274185598987132703"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDEgJDoWQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8UWCsGo_Yr4eDRUPBHAK9Lr5qj6PVg-_pBZF2k_gG_S8QEV8Td2BJ9TzP4CkSzIxuYCYYnImmBbkGVj77TyklI81l7umHtETEq1WBsToXzPyLyB4fzb_vDI5eN0Db11tqYoyZe=w1616-h1080-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8UWCsGo_Yr4eDRUPBHAK9Lr5qj6PVg-_pBZF2k_gG_S8QEV8Td2BJ9TzP4CkSzIxuYCYYnImmBbkGVj77TyklI81l7umHtETEq1WBsToXzPyLyB4fzb_vDI5eN0Db11tqYoyZe=s400-k-no",
+  "width": 1616,
+  "height": 1080,
+  "caption": null,
+  "dateTaken": "2019-04-23",
+  "uploadedAt": "2019-04-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ken YIP",
+  "contributor": {
+    "name": "Ken YIP",
+    "profileUrl": "https://www.google.com/maps/contrib/109045686700962195509",
+    "contributorId": "109045686700962195509"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDc--uFJA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-G2_7XR98UiqiFHRjreWbh2Guqjs4C9pWzdIeeJhFG2NHlw2GCeywhgDb2nTGOTcstA1keXX-YMr3PCwp1cCqC9A1UoEu0dkg6uFDVzVOZ2XGZYjKgJMxZPhoWlKNT-eWYaqI=w1920-h1151-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-G2_7XR98UiqiFHRjreWbh2Guqjs4C9pWzdIeeJhFG2NHlw2GCeywhgDb2nTGOTcstA1keXX-YMr3PCwp1cCqC9A1UoEu0dkg6uFDVzVOZ2XGZYjKgJMxZPhoWlKNT-eWYaqI=s400-k-no",
+  "width": 1920,
+  "height": 1151,
+  "caption": null,
+  "dateTaken": "2015-04-19",
+  "uploadedAt": "2015-04-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Влад Н",
+  "contributor": {
+    "name": "Влад Н",
+    "profileUrl": "https://www.google.com/maps/contrib/107760410636014044131",
+    "contributorId": "107760410636014044131"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICk_Lba0wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8VA0-ahcG-Tot0i27EJbnNWdROol48NcwxmrS8GgX4hmpsXuPTHtvqdTxuFk-MMocbUreCpaWq0eeQEA6CU76w4Lw8_w39PyE5Ty70cmJ2EY8TXidQP_Uwd2GRsP9B7LCfqEBm9g=w1280-h947-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8VA0-ahcG-Tot0i27EJbnNWdROol48NcwxmrS8GgX4hmpsXuPTHtvqdTxuFk-MMocbUreCpaWq0eeQEA6CU76w4Lw8_w39PyE5Ty70cmJ2EY8TXidQP_Uwd2GRsP9B7LCfqEBm9g=s400-k-no",
+  "width": 1280,
+  "height": 947,
+  "caption": null,
+  "dateTaken": "2014-04-21",
+  "uploadedAt": "2018-04-10",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Rao Mallepaddi",
+  "contributor": {
+    "name": "Rao Mallepaddi",
+    "profileUrl": "https://www.google.com/maps/contrib/114053164165765196307",
+    "contributorId": "114053164165765196307"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhCW1LwhBKf4YF0zPZ7-96Ju",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-S4J8kINhIFLAt4YwbcK-FJADoLUv4zuFwQBGBU49GtdBQ_VRKYgKeNMpajd2H_-V77fuFZXC4y_NkK9NPSm_ZC2UCUFczYANld_xAjLN3ws13L63Lcp8eg43U7RQA8Wyl35kLqBdvnNWO=w4000-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-S4J8kINhIFLAt4YwbcK-FJADoLUv4zuFwQBGBU49GtdBQ_VRKYgKeNMpajd2H_-V77fuFZXC4y_NkK9NPSm_ZC2UCUFczYANld_xAjLN3ws13L63Lcp8eg43U7RQA8Wyl35kLqBdvnNWO=s400-k-no",
+  "width": 4000,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2026-02-07",
+  "uploadedAt": "2026-02-08",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Klaus Prettner",
+  "contributor": {
+    "name": "Klaus Prettner",
+    "profileUrl": "https://www.google.com/maps/contrib/111642921854898162989",
+    "contributorId": "111642921854898162989"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICMgOjNkgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9x58PUnFCAQ2n4NnUSDosScL7XvSNMFCVVMEs0nMDR6eiNnQy6bvXojnOOJcuUnvBEeE2tTuNvLW5-W2AxErTAIyLZBgF2pXBp7ifkEaAH8NLkeRdyfuHW8MGXcuR8_0xI6VGC=w3136-h4224-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9x58PUnFCAQ2n4NnUSDosScL7XvSNMFCVVMEs0nMDR6eiNnQy6bvXojnOOJcuUnvBEeE2tTuNvLW5-W2AxErTAIyLZBgF2pXBp7ifkEaAH8NLkeRdyfuHW8MGXcuR8_0xI6VGC=s400-k-no",
+  "width": 3136,
+  "height": 4224,
+  "caption": null,
+  "dateTaken": "2019-07-28",
+  "uploadedAt": "2019-11-12",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Mustafa Mohammed",
+  "contributor": {
+    "name": "Mustafa Mohammed",
+    "profileUrl": "https://www.google.com/maps/contrib/108326518587541711525",
+    "contributorId": "108326518587541711525"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICk5MaFaQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9UK3zAv-q4Za9YANx6Zd1pcGls7F-YCc-KhCFJ18TeoZGkkY-bvq4VXb0Bq51aPyE87HmjiMvxwAlrDvIWTE8GTBwk0LRFAbmc-wFacIASIIs4TpUrWiN65XaVHFvlsJ-G3cg=w1600-h1200-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9UK3zAv-q4Za9YANx6Zd1pcGls7F-YCc-KhCFJ18TeoZGkkY-bvq4VXb0Bq51aPyE87HmjiMvxwAlrDvIWTE8GTBwk0LRFAbmc-wFacIASIIs4TpUrWiN65XaVHFvlsJ-G3cg=s400-k-no",
+  "width": 1600,
+  "height": 1200,
+  "caption": null,
+  "dateTaken": "2009-03-21",
+  "uploadedAt": "2018-04-06",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Chien-Yu Chen",
+  "contributor": {
+    "name": "Chien-Yu Chen",
+    "profileUrl": "https://www.google.com/maps/contrib/108803574797614605857",
+    "contributorId": "108803574797614605857"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhADydERiBiqRGfizpQAALZ5",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8F9zAGFto0PXyR0kqyUfboF67IoF7nPrwj040SeuoHSMs9aWrF1Ejy7I1DzVkAUVHt00m4wcocP9Hw7JBKFyfpqilDAE5V3Jm1hA5ukqSidQbBhwxToD9kyRi01UEvZkwsvpZRQGPY7Gjc=w2048-h1536-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8F9zAGFto0PXyR0kqyUfboF67IoF7nPrwj040SeuoHSMs9aWrF1Ejy7I1DzVkAUVHt00m4wcocP9Hw7JBKFyfpqilDAE5V3Jm1hA5ukqSidQbBhwxToD9kyRi01UEvZkwsvpZRQGPY7Gjc=s400-k-no",
+  "width": 2048,
+  "height": 1536,
+  "caption": null,
+  "dateTaken": "2025-03-25",
+  "uploadedAt": "2025-03-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Placido Fernandez",
+  "contributor": {
+    "name": "Placido Fernandez",
+    "profileUrl": "https://www.google.com/maps/contrib/114774665805971112580",
+    "contributorId": "114774665805971112580"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDux4G_cA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8nxaQoTk4UAX4BWYI88UIWpxdGSUiBIqr_AZf_5deFzEdwpGMCdmPZVWFPOno2OZ8E5yEZM30jhYaSBeOhHPeAov1zhnYDob-lxoRTVVTuBuSpZUt7xeAbRNUzlW_z3RhDjVSx=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8nxaQoTk4UAX4BWYI88UIWpxdGSUiBIqr_AZf_5deFzEdwpGMCdmPZVWFPOno2OZ8E5yEZM30jhYaSBeOhHPeAov1zhnYDob-lxoRTVVTuBuSpZUt7xeAbRNUzlW_z3RhDjVSx=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-08-21",
+  "uploadedAt": "2022-08-31",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Matt B",
+  "contributor": {
+    "name": "Matt B",
+    "profileUrl": "https://www.google.com/maps/contrib/104641095422852249098",
+    "contributorId": "104641095422852249098"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhDoXR8QFqU5f4qEfNNbGys5",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9TuaPdVaR5QCDOGk5zZ0x81WcVeUIx7hvZHSjiV8RV4ePrYtYUkYk5zdboBWmwO_8pICppmw5zlj1-N--NIiR1pv5xPKmXju1ItNiqiDczIMjnVNXS8VRpsUQZ45xr2QAy1kFjPpmd2Os=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9TuaPdVaR5QCDOGk5zZ0x81WcVeUIx7hvZHSjiV8RV4ePrYtYUkYk5zdboBWmwO_8pICppmw5zlj1-N--NIiR1pv5xPKmXju1ItNiqiDczIMjnVNXS8VRpsUQZ45xr2QAy1kFjPpmd2Os=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2026-08-12",
+  "uploadedAt": "2026-08-19",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "跟著史丹利去旅行",
+  "contributor": {
+    "name": "跟著史丹利去旅行",
+    "profileUrl": "https://www.google.com/maps/contrib/115843445451726370782",
+    "contributorId": "115843445451726370782"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICsr8HjNA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-dOzns_wRjmNraRsS5RzIKZ_fi7U-opVtgXRUPb_wjZV3Ncxh4FPxM754xEKxd8Q5UqO36OKPcF37-IZ1ayCy7K3Nqh3vpcoLQ-tclOBs_03pQ8ETyizdfaLpijO86OKAHy6me=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-dOzns_wRjmNraRsS5RzIKZ_fi7U-opVtgXRUPb_wjZV3Ncxh4FPxM754xEKxd8Q5UqO36OKPcF37-IZ1ayCy7K3Nqh3vpcoLQ-tclOBs_03pQ8ETyizdfaLpijO86OKAHy6me=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2019-11-25",
+  "uploadedAt": "2020-02-18",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Marion NYC",
+  "contributor": {
+    "name": "Marion NYC",
+    "profileUrl": "https://www.google.com/maps/contrib/104231099559936710641",
+    "contributorId": "104231099559936710641"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcmpO_MQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8vLpriNYvyF_ZPiWsqFLRHmontyUoJKz4SHfr85vh-xWpFgNlVSlUVC4FH50VoNVSDkUPQoKIgXlVyNInrQRkDDQzzJiOfDWx2pSObHDrs-OeIFHe_aixc7oXBFmi2qDSF7AE=w4608-h2592-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8vLpriNYvyF_ZPiWsqFLRHmontyUoJKz4SHfr85vh-xWpFgNlVSlUVC4FH50VoNVSDkUPQoKIgXlVyNInrQRkDDQzzJiOfDWx2pSObHDrs-OeIFHe_aixc7oXBFmi2qDSF7AE=s400-k-no",
+  "width": 4608,
+  "height": 2592,
+  "caption": null,
+  "dateTaken": "2018-11-12",
+  "uploadedAt": "2020-01-09",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "คนเลี้ยงห่าน ไก่งวง ไก่พื้นเมือง บ้านสวน",
+  "contributor": {
+    "name": "คนเลี้ยงห่าน ไก่งวง ไก่พื้นเมือง บ้านสวน",
+    "profileUrl": "https://www.google.com/maps/contrib/115014112401847384506",
+    "contributorId": "115014112401847384506"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICMwLqrTw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8H7_zmNjaqYEx62z2OqruO_qO2CDHwZfwYA0mMoqVn8KvbpSMADlXXGFoobW9GrRHD1ihjjhGKl3q9lGm_J66xER4vOymYgD1LBTiC1qGSUn_yxhJZO2it1sgMfNUTHdjsnQk=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8H7_zmNjaqYEx62z2OqruO_qO2CDHwZfwYA0mMoqVn8KvbpSMADlXXGFoobW9GrRHD1ihjjhGKl3q9lGm_J66xER4vOymYgD1LBTiC1qGSUn_yxhJZO2it1sgMfNUTHdjsnQk=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2019-07-28",
+  "uploadedAt": "2019-08-15",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Jonah Deller",
+  "contributor": {
+    "name": "Jonah Deller",
+    "profileUrl": "https://www.google.com/maps/contrib/107755640736541028674",
+    "contributorId": "107755640736541028674"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDEhP_f5AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_4neB3jVrgbIzWQ-r6w-3YqLHFRVeZaq55rYhUJo6OggS-YLTEJf5ORCahOLDg5MZ3h6B75wt4AEoQvqkKesyw9gz5TZS74kCAgpxPT1vosOcRaRRYJYNceqTLPzDXNV__dsuV=w3200-h2136-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_4neB3jVrgbIzWQ-r6w-3YqLHFRVeZaq55rYhUJo6OggS-YLTEJf5ORCahOLDg5MZ3h6B75wt4AEoQvqkKesyw9gz5TZS74kCAgpxPT1vosOcRaRRYJYNceqTLPzDXNV__dsuV=s400-k-no",
+  "width": 3200,
+  "height": 2136,
+  "caption": null,
+  "dateTaken": "2018-06-07",
+  "uploadedAt": "2019-03-12",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Linsong Yang",
+  "contributor": {
+    "name": "Linsong Yang",
+    "profileUrl": "https://www.google.com/maps/contrib/112987759632447517350",
+    "contributorId": "112987759632447517350"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDpnoaHjgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_cO7yLN9DJA6MZkmGhoYktoi4n9j472KxHgDMnJT5vcReIajwgzp4nELBCk6Wn-TCT8Eq9lGmoa6lk_zmp2xfIBzJPGykXFwOoHL0ZSTTVMK0CYJfFSbIBsLNBhcpeuN7ytRcl=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_cO7yLN9DJA6MZkmGhoYktoi4n9j472KxHgDMnJT5vcReIajwgzp4nELBCk6Wn-TCT8Eq9lGmoa6lk_zmp2xfIBzJPGykXFwOoHL0ZSTTVMK0CYJfFSbIBsLNBhcpeuN7ytRcl=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2023-08-03",
+  "uploadedAt": "2023-08-22",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Kira Lord",
+  "contributor": {
+    "name": "Kira Lord",
+    "profileUrl": "https://www.google.com/maps/contrib/101174861294386497678",
+    "contributorId": "101174861294386497678"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICkgpDPSg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_ukeBVdvNkdndRzupgIhEdjVMXQyIHziRC2lR7EJAz96nIk7gpyhCYhjEjvlRPzO-qsphalKWULhNsOeHEFtKS8BLDCgZMPd8LS-M6is6iQ5ZWSu_X_D5t12ThJobC8VpYoTY=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_ukeBVdvNkdndRzupgIhEdjVMXQyIHziRC2lR7EJAz96nIk7gpyhCYhjEjvlRPzO-qsphalKWULhNsOeHEFtKS8BLDCgZMPd8LS-M6is6iQ5ZWSu_X_D5t12ThJobC8VpYoTY=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2019-04-14",
+  "uploadedAt": "2019-04-16",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ramiro Lafuente",
+  "contributor": {
+    "name": "Ramiro Lafuente",
+    "profileUrl": "https://www.google.com/maps/contrib/106859510729749562059",
+    "contributorId": "106859510729749562059"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC-lfjenwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_1_9BHjuPeTjZiI5GEfbO30zH1jl1YxeHw6QaQxHDjLRLDz6Apyof1SHoIImf-2fEeSdrAjPZXP8pWZ4LKfT-55KpEBtGZ46vVneADUiprVZgWgGmPXKoAmh_u7mMWGy4nwymP=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_1_9BHjuPeTjZiI5GEfbO30zH1jl1YxeHw6QaQxHDjLRLDz6Apyof1SHoIImf-2fEeSdrAjPZXP8pWZ4LKfT-55KpEBtGZ46vVneADUiprVZgWgGmPXKoAmh_u7mMWGy4nwymP=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-11-02",
+  "uploadedAt": "2022-11-09",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "억세게 운 좋은 조준호",
+  "contributor": {
+    "name": "억세게 운 좋은 조준호",
+    "profileUrl": "https://www.google.com/maps/contrib/115545646303718223711",
+    "contributorId": "115545646303718223711"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICK5ICfIg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-4ztZ6kmbwHJFCa_KszPNUVEwUfXuheJvfuU418g3aTczksbGjZsrd-KNM7eGrmblVMfKxIQQHhd7H3Z2bQ959-8hUtUgQ2Pfeqj8PTEp4xZNlwVu1B3hA4cxVH3qO6NWLiQ99=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-4ztZ6kmbwHJFCa_KszPNUVEwUfXuheJvfuU418g3aTczksbGjZsrd-KNM7eGrmblVMfKxIQQHhd7H3Z2bQ959-8hUtUgQ2Pfeqj8PTEp4xZNlwVu1B3hA4cxVH3qO6NWLiQ99=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2021-03-27",
+  "uploadedAt": "2021-03-29",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Fred Capacchione",
+  "contributor": {
+    "name": "Fred Capacchione",
+    "profileUrl": "https://www.google.com/maps/contrib/108062723072420690183",
+    "contributorId": "108062723072420690183"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICM_J3D2wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8asM293umrMRMj0zYO1kjPKJyl-eI6wIV-wttbdbNJsjyQlNGrCpIAmwgb-MvHM9DPtrd0drIdyGxNDYeMRx8p5KPKUl0CHFgjXg31rod1GcWfeDlyylUAfDurbrabgyrHDuO3Hw=w4656-h3492-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8asM293umrMRMj0zYO1kjPKJyl-eI6wIV-wttbdbNJsjyQlNGrCpIAmwgb-MvHM9DPtrd0drIdyGxNDYeMRx8p5KPKUl0CHFgjXg31rod1GcWfeDlyylUAfDurbrabgyrHDuO3Hw=s400-k-no",
+  "width": 4656,
+  "height": 3492,
+  "caption": null,
+  "dateTaken": "2019-10-24",
+  "uploadedAt": "2019-10-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "손상현",
+  "contributor": {
+    "name": "손상현",
+    "profileUrl": "https://www.google.com/maps/contrib/102573672852733676747",
+    "contributorId": "102573672852733676747"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDOicOSIg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8VSCqpACxd15Y4yMsO4ivMxHoshL6_GoxeBuZziwykq2kjP0icYxAz3eYS5HX2wG3aCC7NUbtb_qVNW1nL1gxMJiQkoJH2eY763siF9nZK4j4hFWXIjawybAByHjKuqrRu88__=w5120-h3840-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8VSCqpACxd15Y4yMsO4ivMxHoshL6_GoxeBuZziwykq2kjP0icYxAz3eYS5HX2wG3aCC7NUbtb_qVNW1nL1gxMJiQkoJH2eY763siF9nZK4j4hFWXIjawybAByHjKuqrRu88__=s400-k-no",
+  "width": 5120,
+  "height": 3840,
+  "caption": null,
+  "dateTaken": "2022-07-03",
+  "uploadedAt": "2022-07-08",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Peter Hsu",
+  "contributor": {
+    "name": "Peter Hsu",
+    "profileUrl": "https://www.google.com/maps/contrib/116254070581260904241",
+    "contributorId": "116254070581260904241"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICk3e7_ngE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9ygbZiZHdYh4JZqAXfeJbPtlCUtC8cq8cjUD_jY7xZnMC-Q4BsmQrFAliljOOe78O5dpm2smtXWkdYfo1D3OwjepB9IgcRGcoAEnXCanuyTDewzR-K_QNEpqAEmQVRraSc9tLC=w1535-h2298-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9ygbZiZHdYh4JZqAXfeJbPtlCUtC8cq8cjUD_jY7xZnMC-Q4BsmQrFAliljOOe78O5dpm2smtXWkdYfo1D3OwjepB9IgcRGcoAEnXCanuyTDewzR-K_QNEpqAEmQVRraSc9tLC=s400-k-no",
+  "width": 1535,
+  "height": 2298,
+  "caption": null,
+  "dateTaken": "2012-10-17",
+  "uploadedAt": "2018-09-14",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Jamie Gardiner-Hill",
+  "contributor": {
+    "name": "Jamie Gardiner-Hill",
+    "profileUrl": "https://www.google.com/maps/contrib/105350923644899439127",
+    "contributorId": "105350923644899439127"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDE7P3vZA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-lDcBaK2bKbeBs5T_QmCRow_LukgwxSrVNfLTlylBRW8jEdxmfwgn4j4HNVrTgX3V7aizdzLXTm2AJDRhUA6KhN2caTIeOdZ8qTndpeQ2y1lKz8WcmXFHQqvIvy6OjnOAELBdW=w4096-h3040-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-lDcBaK2bKbeBs5T_QmCRow_LukgwxSrVNfLTlylBRW8jEdxmfwgn4j4HNVrTgX3V7aizdzLXTm2AJDRhUA6KhN2caTIeOdZ8qTndpeQ2y1lKz8WcmXFHQqvIvy6OjnOAELBdW=s400-k-no",
+  "width": 4096,
+  "height": 3040,
+  "caption": null,
+  "dateTaken": "2015-01-08",
+  "uploadedAt": "2018-06-16",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Theofanis Pantelides",
+  "contributor": {
+    "name": "Theofanis Pantelides",
+    "profileUrl": "https://www.google.com/maps/contrib/116909352605042585175",
+    "contributorId": "116909352605042585175"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICkod-l0QE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9N6k-GPzOQHgk60eDJNDT5gOiK9KZ4BntbumOrDDSwS5Gi4PnnGaoJ5wkivxD5UaYhVnaWr98ZijwXO2Gx16RnCaoCm_LgqFGw165Nc8CTxcn4pzsS8oQ_CblgsaNgvv1t4mv0xw=w1920-h1080-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9N6k-GPzOQHgk60eDJNDT5gOiK9KZ4BntbumOrDDSwS5Gi4PnnGaoJ5wkivxD5UaYhVnaWr98ZijwXO2Gx16RnCaoCm_LgqFGw165Nc8CTxcn4pzsS8oQ_CblgsaNgvv1t4mv0xw=s400-k-no",
+  "width": 1920,
+  "height": 1080,
+  "caption": null,
+  "dateTaken": "2018-08-08",
+  "uploadedAt": "2018-08-08",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Victor Raj",
+  "contributor": {
+    "name": "Victor Raj",
+    "profileUrl": "https://www.google.com/maps/contrib/106129009084429999556",
+    "contributorId": "106129009084429999556"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDc9_qgKA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_RKO0YN4IE5UTgY59Qv9LWXrsePkl1CLQIOyc2rwcAhYhZdQuOYl4a3vjftwfon59nJeCsKevWbqfzB2RKY5Zo1ZziqcNKZOzCsBXBhrGfjOr_g-XlywiaOuFXer6jg2MgSTRh=w4128-h2322-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_RKO0YN4IE5UTgY59Qv9LWXrsePkl1CLQIOyc2rwcAhYhZdQuOYl4a3vjftwfon59nJeCsKevWbqfzB2RKY5Zo1ZziqcNKZOzCsBXBhrGfjOr_g-XlywiaOuFXer6jg2MgSTRh=s400-k-no",
+  "width": 4128,
+  "height": 2322,
+  "caption": null,
+  "dateTaken": "2019-01-27",
+  "uploadedAt": "2019-01-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Donne Syahlendra",
+  "contributor": {
+    "name": "Donne Syahlendra",
+    "profileUrl": "https://www.google.com/maps/contrib/107136981947432761074",
+    "contributorId": "107136981947432761074"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcifnDYg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_fT9auZy1d5XyqO-X3odcT-NOLJqGNR8Ka0v3_fpOMaRNS0VF6tpOfOG7PpM28bga1fs-HoNQWt_LWLxcP3JoWioqiWU8i9XnFvLOq4jHOVjikXbNi0IH_x29i1jEWxvm_NOmV=w3456-h4608-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_fT9auZy1d5XyqO-X3odcT-NOLJqGNR8Ka0v3_fpOMaRNS0VF6tpOfOG7PpM28bga1fs-HoNQWt_LWLxcP3JoWioqiWU8i9XnFvLOq4jHOVjikXbNi0IH_x29i1jEWxvm_NOmV=s400-k-no",
+  "width": 3456,
+  "height": 4608,
+  "caption": null,
+  "dateTaken": "2020-02-24",
+  "uploadedAt": "2020-03-14",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "黃政川",
+  "contributor": {
+    "name": "黃政川",
+    "profileUrl": "https://www.google.com/maps/contrib/115281581726677330079",
+    "contributorId": "115281581726677330079"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID43amPUw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8uX1qqO5AboUMkedDgizwAIb-fqtu_BLK5upWXDs2rzRb-181uoSyFRjQ8cFw_nJPpsV3kR9mbpQ2IQ5ypCvNsqSNe4fWhJi1qE9IkVm4Un9GNnlKQgOIjYxBrfQbedw4twokf=w4128-h3096-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8uX1qqO5AboUMkedDgizwAIb-fqtu_BLK5upWXDs2rzRb-181uoSyFRjQ8cFw_nJPpsV3kR9mbpQ2IQ5ypCvNsqSNe4fWhJi1qE9IkVm4Un9GNnlKQgOIjYxBrfQbedw4twokf=s400-k-no",
+  "width": 4128,
+  "height": 3096,
+  "caption": null,
+  "dateTaken": "2018-10-03",
+  "uploadedAt": "2018-10-13",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Mamoru Yoshida",
+  "contributor": {
+    "name": "Mamoru Yoshida",
+    "profileUrl": "https://www.google.com/maps/contrib/112669327034268995788",
+    "contributorId": "112669327034268995788"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDcrd2Y5wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_3zBoNrUfcxTWKsvb6gKLUplYlnEphN1XetdmwIHWi6uMx7XG32zVh6PgqF3WZ_gV3U8j0gCQX6HNQmvCigzwWyKHhQE3AHSa8b8IeQXZ17S9HTLiDRO9Zwlhk3ZXxnYuBsVO9=w1836-h3264-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_3zBoNrUfcxTWKsvb6gKLUplYlnEphN1XetdmwIHWi6uMx7XG32zVh6PgqF3WZ_gV3U8j0gCQX6HNQmvCigzwWyKHhQE3AHSa8b8IeQXZ17S9HTLiDRO9Zwlhk3ZXxnYuBsVO9=s400-k-no",
+  "width": 1836,
+  "height": 3264,
+  "caption": null,
+  "dateTaken": "2016-12-30",
+  "uploadedAt": "2016-12-30",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Bill Jackson",
+  "contributor": {
+    "name": "Bill Jackson",
+    "profileUrl": "https://www.google.com/maps/contrib/113221032596266018045",
+    "contributorId": "113221032596266018045"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDP58z4Wg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_e9DoC74iwqoJA8a4SyNN9vh1GeHbPIRIqRAG2Uc6QFdhxI7t38uo7qGzF97miVGyUaVDoWyWN0-T69SpmH-7F3J5niJw1Ozu293I4OOuZu0P8feT5wHabKZK2lgNLj-YwHAY=w16320-h9180-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_e9DoC74iwqoJA8a4SyNN9vh1GeHbPIRIqRAG2Uc6QFdhxI7t38uo7qGzF97miVGyUaVDoWyWN0-T69SpmH-7F3J5niJw1Ozu293I4OOuZu0P8feT5wHabKZK2lgNLj-YwHAY=s400-k-no",
+  "width": 16320,
+  "height": 9180,
+  "caption": null,
+  "dateTaken": "2024-11-20",
+  "uploadedAt": "2024-12-06",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Anish P R",
+  "contributor": {
+    "name": "Anish P R",
+    "profileUrl": "https://www.google.com/maps/contrib/108180357128173457232",
+    "contributorId": "108180357128173457232"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICkpNvSqgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9VnGZbNhpfPr2RwjGdgtSFVR1MDbT-YooLxPfTDjZy2MjvZBXmKcEx-XS0reojJsjY8f4uuFeFjeFtmVkKKzReHRTWs_mYaSuk5IRqPIYSGFpjk9yw-r8_yk13PZEKjjBKQvcCPg=w2048-h1536-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9VnGZbNhpfPr2RwjGdgtSFVR1MDbT-YooLxPfTDjZy2MjvZBXmKcEx-XS0reojJsjY8f4uuFeFjeFtmVkKKzReHRTWs_mYaSuk5IRqPIYSGFpjk9yw-r8_yk13PZEKjjBKQvcCPg=s400-k-no",
+  "width": 2048,
+  "height": 1536,
+  "caption": null,
+  "dateTaken": "2017-12-28",
+  "uploadedAt": "2017-12-28",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "지용진",
+  "contributor": {
+    "name": "지용진",
+    "profileUrl": "https://www.google.com/maps/contrib/100398380285400036420",
+    "contributorId": "100398380285400036420"
+  },
+  "geo": {
+    "latitude": -33.861172023678,
+    "longitude": 151.2062978432574
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDx5Pe0Vg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8Ub0EXPXullvEdnbZnMXrXsJazFfP2F6udx_ofBUO1sh-CwAe_UryRk6Bos-DNK8Uu9oros8ttlHQzHpxaKfCCly3nM_eVBXUw6IWqeq9Lzqq0EAOQvDTsxGLtRm2GlENWON0r=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8Ub0EXPXullvEdnbZnMXrXsJazFfP2F6udx_ofBUO1sh-CwAe_UryRk6Bos-DNK8Uu9oros8ttlHQzHpxaKfCCly3nM_eVBXUw6IWqeq9Lzqq0EAOQvDTsxGLtRm2GlENWON0r=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2023-05-27",
+  "uploadedAt": "2023-06-02",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "jong beom choi",
+  "contributor": {
+    "name": "jong beom choi",
+    "profileUrl": "https://www.google.com/maps/contrib/102342781886666332098",
+    "contributorId": "102342781886666332098"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC4i4yldw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9cc26OS-yYcmeioij1sDkQRMbN8Ri9yvO8-J2z7qLbfKFVNeg-fesfGAxKJTtVyr2HKcvHHIv-kH_u2jyxy9fNSbDG56h9-0n1i9sa2Rug0JO3fpduYh-MYAAdnagQUCB_bpOe=w3096-h4128-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9cc26OS-yYcmeioij1sDkQRMbN8Ri9yvO8-J2z7qLbfKFVNeg-fesfGAxKJTtVyr2HKcvHHIv-kH_u2jyxy9fNSbDG56h9-0n1i9sa2Rug0JO3fpduYh-MYAAdnagQUCB_bpOe=s400-k-no",
+  "width": 3096,
+  "height": 4128,
+  "caption": null,
+  "dateTaken": "2018-03-23",
+  "uploadedAt": "2018-12-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Jimbo Carter",
+  "contributor": {
+    "name": "Jimbo Carter",
+    "profileUrl": "https://www.google.com/maps/contrib/117918820122508476849",
+    "contributorId": "117918820122508476849"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcspWy9gE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8bUnKJBXjMkYCh-mwyUgG2D6I0nZ4Didotgp42aAdF-hou5bu9XYxf1dWf-oXefTp2DraUsKSk0uDN10CZavmjFVHZsmWjoUVBFph8rZ7Yx2EUX5GWkIm8Djle4Hpl_g_l5E0TjQ=w5312-h2988-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8bUnKJBXjMkYCh-mwyUgG2D6I0nZ4Didotgp42aAdF-hou5bu9XYxf1dWf-oXefTp2DraUsKSk0uDN10CZavmjFVHZsmWjoUVBFph8rZ7Yx2EUX5GWkIm8Djle4Hpl_g_l5E0TjQ=s400-k-no",
+  "width": 5312,
+  "height": 2988,
+  "caption": null,
+  "dateTaken": "2020-01-10",
+  "uploadedAt": "2020-01-31",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Andrey Lupashko",
+  "contributor": {
+    "name": "Andrey Lupashko",
+    "profileUrl": "https://www.google.com/maps/contrib/110317364255469515552",
+    "contributorId": "110317364255469515552"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICc7oaYOA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_Ry_U8TCQkPwnTnJtQynnxt_56dfuln5X-F17Xi4id1ir1-tu9BoBfJLbYG-R_39gJ-EZVC0VFZgmXujBI-GzHRFgTHAZmDn4XZ8JQMl55drMZ4K_H3cNRv62agTNFFCYXtuff=w6720-h4480-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_Ry_U8TCQkPwnTnJtQynnxt_56dfuln5X-F17Xi4id1ir1-tu9BoBfJLbYG-R_39gJ-EZVC0VFZgmXujBI-GzHRFgTHAZmDn4XZ8JQMl55drMZ4K_H3cNRv62agTNFFCYXtuff=s400-k-no",
+  "width": 6720,
+  "height": 4480,
+  "caption": null,
+  "dateTaken": "2019-01-14",
+  "uploadedAt": "2019-11-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Coffee Kuo",
+  "contributor": {
+    "name": "Coffee Kuo",
+    "profileUrl": "https://www.google.com/maps/contrib/117915000406722837108",
+    "contributorId": "117915000406722837108"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICEh6TiZQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8W24XRmvHHvwpjjChmLcJxYfn2mk9vMTC53YTw6qL-0tKF5GuoRYTBnmVsPkRsAk2tmXqUsIp74pgHccnx0ng0jbfcVWl6ZJFZwVSxOtfVVQBHveO6p4uq3shSealhrJvmrGo=w720-h960-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8W24XRmvHHvwpjjChmLcJxYfn2mk9vMTC53YTw6qL-0tKF5GuoRYTBnmVsPkRsAk2tmXqUsIp74pgHccnx0ng0jbfcVWl6ZJFZwVSxOtfVVQBHveO6p4uq3shSealhrJvmrGo=s400-k-no",
+  "width": 720,
+  "height": 960,
+  "caption": null,
+  "dateTaken": "2017-01-13",
+  "uploadedAt": "2018-09-24",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Donen Dy",
+  "contributor": {
+    "name": "Donen Dy",
+    "profileUrl": "https://www.google.com/maps/contrib/102123763569472708529",
+    "contributorId": "102123763569472708529"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID3mpL3uQE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8N39WfV5yHxkfYhF5iJi6LXS877u2kp6azZ-wiEC39NcRBPlAzUavwiH1Aotnh_I3wI6YkGQN3tEPN7zvTdsxAkDHnP2dmAoTLdOr29kQl9iMLqSIHlpL8eR8X8Ka-VlP_9afI=w4898-h3266-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8N39WfV5yHxkfYhF5iJi6LXS877u2kp6azZ-wiEC39NcRBPlAzUavwiH1Aotnh_I3wI6YkGQN3tEPN7zvTdsxAkDHnP2dmAoTLdOr29kQl9iMLqSIHlpL8eR8X8Ka-VlP_9afI=s400-k-no",
+  "width": 4898,
+  "height": 3266,
+  "caption": null,
+  "dateTaken": "2024-11-12",
+  "uploadedAt": "2024-11-14",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "JINs You",
+  "contributor": {
+    "name": "JINs You",
+    "profileUrl": "https://www.google.com/maps/contrib/116766706201357027604",
+    "contributorId": "116766706201357027604"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICnssqz5AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9j33CRYnwRuPDX5baunPfe7wnL3IoV9_9dD4kB-irbXMCdWm0TSi3oIYH-osDxshseFbNQ1AKtVqdqfwtzB8ZBk61oTYrwST0BIqQpFGeAfmtCFY4lbZPjc-gKalntiisqXtxh=w1240-h697-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9j33CRYnwRuPDX5baunPfe7wnL3IoV9_9dD4kB-irbXMCdWm0TSi3oIYH-osDxshseFbNQ1AKtVqdqfwtzB8ZBk61oTYrwST0BIqQpFGeAfmtCFY4lbZPjc-gKalntiisqXtxh=s400-k-no",
+  "width": 1240,
+  "height": 697,
+  "caption": null,
+  "dateTaken": "2043-09-01",
+  "uploadedAt": "2024-09-24",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ilyas El",
+  "contributor": {
+    "name": "Ilyas El",
+    "profileUrl": "https://www.google.com/maps/contrib/118323105028468970160",
+    "contributorId": "118323105028468970160"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICc1Ku9jwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-gS-s0vjH7nl771U44if8exm2aKVJDmy8w0sMxPLqWdlRd1CW2hHfZkudOKLDYeVmXv4CwGPGjy1uPkb2lMwwwouE8ELK2JnxDcsz5xaTaljt20o7hajAZUa6f0S-R_HUmuVrYVA=w958-h611-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-gS-s0vjH7nl771U44if8exm2aKVJDmy8w0sMxPLqWdlRd1CW2hHfZkudOKLDYeVmXv4CwGPGjy1uPkb2lMwwwouE8ELK2JnxDcsz5xaTaljt20o7hajAZUa6f0S-R_HUmuVrYVA=s400-k-no",
+  "width": 958,
+  "height": 611,
+  "caption": null,
+  "dateTaken": "2020-01-20",
+  "uploadedAt": "2020-02-03",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Soonja Bang",
+  "contributor": {
+    "name": "Soonja Bang",
+    "profileUrl": "https://www.google.com/maps/contrib/117423052141817882527",
+    "contributorId": "117423052141817882527"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID5lIWyQA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_p0C1JqgOpRrSEb6Xf8cDGMuKq9qL80Fn97fQEsuZgMBQKgbheNC5QwEAwTcTnzPfApofEtOyovjPX1ZCOLbQknbWOjvohOesWeHc6cX5one7rFQcD1seKUDHqWKS5sZWCSmw2=w4000-h2252-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_p0C1JqgOpRrSEb6Xf8cDGMuKq9qL80Fn97fQEsuZgMBQKgbheNC5QwEAwTcTnzPfApofEtOyovjPX1ZCOLbQknbWOjvohOesWeHc6cX5one7rFQcD1seKUDHqWKS5sZWCSmw2=s400-k-no",
+  "width": 4000,
+  "height": 2252,
+  "caption": null,
+  "dateTaken": "2023-10-20",
+  "uploadedAt": "2023-10-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Daniel Vassallo",
+  "contributor": {
+    "name": "Daniel Vassallo",
+    "profileUrl": "https://www.google.com/maps/contrib/110662926695167966121",
+    "contributorId": "110662926695167966121"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhCPRvNGfVcztK9FX_DpVeVr",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_tpPDPBMYLLLATfSFSdXWczgOFFPjODKoOniAWKg2wpswwWoGboJe2ccdn8mLjRWvW08tTUX2RvKypXR4hOJt6xEs6TA9pmiQC8DsWuM5s8MngMBkWPzzvDnV0D1-Es1WtG87D6gcX3aA=w3024-h4032-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_tpPDPBMYLLLATfSFSdXWczgOFFPjODKoOniAWKg2wpswwWoGboJe2ccdn8mLjRWvW08tTUX2RvKypXR4hOJt6xEs6TA9pmiQC8DsWuM5s8MngMBkWPzzvDnV0D1-Es1WtG87D6gcX3aA=s400-k-no",
+  "width": 3024,
+  "height": 4032,
+  "caption": null,
+  "dateTaken": "2025-06-22",
+  "uploadedAt": "2025-06-22",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Scott B",
+  "contributor": {
+    "name": "Scott B",
+    "profileUrl": "https://www.google.com/maps/contrib/113305940585922957469",
+    "contributorId": "113305940585922957469"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDc88WNWQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_mjp13a0OFx-E30vV4GM83m0mjc7JlccusWDo42TOuNzpzEtjOl58L1mWpk1g04nbaG53dVAEt-cnj2xtVt5I6MLoLXSXz9tSLL6Tp5aojzRgkzUFnH5DQ_k7VSMK1yzPxm45B=w5312-h2988-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_mjp13a0OFx-E30vV4GM83m0mjc7JlccusWDo42TOuNzpzEtjOl58L1mWpk1g04nbaG53dVAEt-cnj2xtVt5I6MLoLXSXz9tSLL6Tp5aojzRgkzUFnH5DQ_k7VSMK1yzPxm45B=s400-k-no",
+  "width": 5312,
+  "height": 2988,
+  "caption": null,
+  "dateTaken": "2017-03-19",
+  "uploadedAt": "2017-03-19",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Mary Yeates",
+  "contributor": {
+    "name": "Mary Yeates",
+    "profileUrl": "https://www.google.com/maps/contrib/107142894566503390827",
+    "contributorId": "107142894566503390827"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICk0ILZ8wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8RLiDIBvHCAPBT6pxorNdrKXZyj78TYlDZs_Mr5VWFl65Me0lkxsUeDDThO7dRlZfh7DKYnO2dukm0RSJn3BcDYfqpW1pz558wUcx3BQnkTseSFiBSY6vIEzSxI6rsEC6LpIAKvQ=w3024-h3782-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8RLiDIBvHCAPBT6pxorNdrKXZyj78TYlDZs_Mr5VWFl65Me0lkxsUeDDThO7dRlZfh7DKYnO2dukm0RSJn3BcDYfqpW1pz558wUcx3BQnkTseSFiBSY6vIEzSxI6rsEC6LpIAKvQ=s400-k-no",
+  "width": 3024,
+  "height": 3782,
+  "caption": null,
+  "dateTaken": "2017-12-30",
+  "uploadedAt": "2018-01-08",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "奈美",
+  "contributor": {
+    "name": "奈美",
+    "profileUrl": "https://www.google.com/maps/contrib/104822135823096798066",
+    "contributorId": "104822135823096798066"
+  },
+  "geo": {
+    "latitude": -33.87199682348386,
+    "longitude": 151.2023264082184
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC73vaxNQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9XwmSYyi4_G_rG5JKtcb3T6hDHR2F5I7b9iyF9e2DE9qpU9BKgKwERKYtmy0mcs3zke0JbDYxQq96uffXxNpKkyKwxc_NfxLVNjqqr_MF2q1Ujg8dfG6Z2rDU4JqhhNSwedE3P=w4080-h3072-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9XwmSYyi4_G_rG5JKtcb3T6hDHR2F5I7b9iyF9e2DE9qpU9BKgKwERKYtmy0mcs3zke0JbDYxQq96uffXxNpKkyKwxc_NfxLVNjqqr_MF2q1Ujg8dfG6Z2rDU4JqhhNSwedE3P=s400-k-no",
+  "width": 4080,
+  "height": 3072,
+  "caption": null,
+  "dateTaken": "2024-08-11",
+  "uploadedAt": "2024-08-16",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Sylvia Lin",
+  "contributor": {
+    "name": "Sylvia Lin",
+    "profileUrl": "https://www.google.com/maps/contrib/103708397504409242579",
+    "contributorId": "103708397504409242579"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcgqSK8QE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-WOEH4r6LK86vMEEZLwgTX2MUGQPsGmfetWy1JmBHqpjXndGkCHzjipB61-nSWrrZiOwXXO6N4K7aJsnBGcSZtE5vzz6tgfUxHIhwdk4n0bN_5P6h6fXNyO3-mtCJXdiAMgPhb=w4608-h3456-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-WOEH4r6LK86vMEEZLwgTX2MUGQPsGmfetWy1JmBHqpjXndGkCHzjipB61-nSWrrZiOwXXO6N4K7aJsnBGcSZtE5vzz6tgfUxHIhwdk4n0bN_5P6h6fXNyO3-mtCJXdiAMgPhb=s400-k-no",
+  "width": 4608,
+  "height": 3456,
+  "caption": null,
+  "dateTaken": "2019-06-15",
+  "uploadedAt": "2020-01-07",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Shaip Elshani",
+  "contributor": {
+    "name": "Shaip Elshani",
+    "profileUrl": "https://www.google.com/maps/contrib/103909082898496740805",
+    "contributorId": "103909082898496740805"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDkrKbgmgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_DmKHMgGU46LqB60c4LSg3-gToBy6LzKvb-VrFB9h-_wXhq1wQSOH1l6A6yiq9vH-I0636UYXwkX2f4VBeFqA6fH6JeW5DH_wj1DjdnkM61P_u1P-3dHmhtDm4lXLMT7CE0RSNQQ=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_DmKHMgGU46LqB60c4LSg3-gToBy6LzKvb-VrFB9h-_wXhq1wQSOH1l6A6yiq9vH-I0636UYXwkX2f4VBeFqA6fH6JeW5DH_wj1DjdnkM61P_u1P-3dHmhtDm4lXLMT7CE0RSNQQ=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2018-09-21",
+  "uploadedAt": "2018-09-22",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Jonah Deller",
+  "contributor": {
+    "name": "Jonah Deller",
+    "profileUrl": "https://www.google.com/maps/contrib/107755640736541028674",
+    "contributorId": "107755640736541028674"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID-8taBHA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-fnXQTbPIDR87STk0oJ41SQlWHq8xnyD3pBiZpclCqLKULziOzUQBVzmqynCANoaGUyenxL2pJG9xt-nXrWy3r6yZKKprMkFWrSEyJrZfDc9rcIfGipB2H67HJhCZoK66h6hfU=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-fnXQTbPIDR87STk0oJ41SQlWHq8xnyD3pBiZpclCqLKULziOzUQBVzmqynCANoaGUyenxL2pJG9xt-nXrWy3r6yZKKprMkFWrSEyJrZfDc9rcIfGipB2H67HJhCZoK66h6hfU=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-11-26",
+  "uploadedAt": "2022-11-26",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ferd Reyes",
+  "contributor": {
+    "name": "Ferd Reyes",
+    "profileUrl": "https://www.google.com/maps/contrib/109556616580840587888",
+    "contributorId": "109556616580840587888"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDEuJupLA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DWQzSLEaS9EtrNvsTnCijD3Mt2JFbwQkoMLyAEWmjSzoyI44fx-3BsIj-nLE9gm3oOCpuA-cVMccj6Ib1UcWbEbVegBsZbrY-UsHWh8YhhluBFr-uh-JCFyU0sSPbBJoWFgjY=w3968-h2976-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DWQzSLEaS9EtrNvsTnCijD3Mt2JFbwQkoMLyAEWmjSzoyI44fx-3BsIj-nLE9gm3oOCpuA-cVMccj6Ib1UcWbEbVegBsZbrY-UsHWh8YhhluBFr-uh-JCFyU0sSPbBJoWFgjY=s400-k-no",
+  "width": 3968,
+  "height": 2976,
+  "caption": null,
+  "dateTaken": "2017-05-09",
+  "uploadedAt": "2017-05-09",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "YONG Woon Khar",
+  "contributor": {
+    "name": "YONG Woon Khar",
+    "profileUrl": "https://www.google.com/maps/contrib/112072335015266337059",
+    "contributorId": "112072335015266337059"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhCXUnvJNiOOi0EnHFidub_E",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-9JTDvbJ7OA2_UMyXmSbw0CK1apaOiTl4LQDdfJCBm0qag48IZ9gw8ydMB6oRJX_7idrvzvkjeQCrVMhcyHHAyfZmOS3x27XIEqpqzERs7mEDy0XlhwrNbpNzTaOgkLqK4jGDqZG_Fi1wC=w4608-h3456-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-9JTDvbJ7OA2_UMyXmSbw0CK1apaOiTl4LQDdfJCBm0qag48IZ9gw8ydMB6oRJX_7idrvzvkjeQCrVMhcyHHAyfZmOS3x27XIEqpqzERs7mEDy0XlhwrNbpNzTaOgkLqK4jGDqZG_Fi1wC=s400-k-no",
+  "width": 4608,
+  "height": 3456,
+  "caption": null,
+  "dateTaken": "2026-03-24",
+  "uploadedAt": "2026-03-24",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Martin Connelly",
+  "contributor": {
+    "name": "Martin Connelly",
+    "profileUrl": "https://www.google.com/maps/contrib/100550543194768948838",
+    "contributorId": "100550543194768948838"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC4tq2ILQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_jt3aCHroFxr2OJ33nG1C1q4FerZOKh5AlYRQ8Ai-kZxYmu1Zy7V6QwkjEsAk9RRdFOgRFoUQV-bVh_euijQudEwhmHlj5WWft9kw6FxMWXZ1PBHzJ7WYszwpXA45q_9Hvfzq8=w4320-h2432-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_jt3aCHroFxr2OJ33nG1C1q4FerZOKh5AlYRQ8Ai-kZxYmu1Zy7V6QwkjEsAk9RRdFOgRFoUQV-bVh_euijQudEwhmHlj5WWft9kw6FxMWXZ1PBHzJ7WYszwpXA45q_9Hvfzq8=s400-k-no",
+  "width": 4320,
+  "height": 2432,
+  "caption": null,
+  "dateTaken": "2018-06-25",
+  "uploadedAt": "2018-07-01",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "gena spektor",
+  "contributor": {
+    "name": "gena spektor",
+    "profileUrl": "https://www.google.com/maps/contrib/103869887428334469222",
+    "contributorId": "103869887428334469222"
+  },
+  "geo": {
+    "latitude": -33.86225029604496,
+    "longitude": 151.2076840183084
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDcn6vprwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-3B7-L2c0QQy-MgRpBiS8FWBCIvUKevcsVSIlPR_-zlH_8UZR59RdazMizUyJhwVJlO43qWhjPgykYWtJkcnvqNoVdeGTU8y_oYRY6cuVOXwnb1V5Zzjv1JRE77UDSSre0KcqCHw=w5312-h2988-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-3B7-L2c0QQy-MgRpBiS8FWBCIvUKevcsVSIlPR_-zlH_8UZR59RdazMizUyJhwVJlO43qWhjPgykYWtJkcnvqNoVdeGTU8y_oYRY6cuVOXwnb1V5Zzjv1JRE77UDSSre0KcqCHw=s400-k-no",
+  "width": 5312,
+  "height": 2988,
+  "caption": null,
+  "dateTaken": "2016-11-13",
+  "uploadedAt": "2016-11-13",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "james spiropoulos",
+  "contributor": {
+    "name": "james spiropoulos",
+    "profileUrl": "https://www.google.com/maps/contrib/114177437029590672100",
+    "contributorId": "114177437029590672100"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID4vsOuGA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U80w2g0NbaisDD98OuzZIxmTUYDcL9IxST_H64j8HhL_bLE0hM2Hh_KFSTCRyjjiGscBB2tyGXJrJmZYtayEXObJXFI61cxlhE8fnDX2EZ_RMr_Pru6r98rGDbmdlYIRT9lezHZ=w5312-h2988-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U80w2g0NbaisDD98OuzZIxmTUYDcL9IxST_H64j8HhL_bLE0hM2Hh_KFSTCRyjjiGscBB2tyGXJrJmZYtayEXObJXFI61cxlhE8fnDX2EZ_RMr_Pru6r98rGDbmdlYIRT9lezHZ=s400-k-no",
+  "width": 5312,
+  "height": 2988,
+  "caption": null,
+  "dateTaken": "2017-11-30",
+  "uploadedAt": "2017-12-06",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "許丕杰",
+  "contributor": {
+    "name": "許丕杰",
+    "profileUrl": "https://www.google.com/maps/contrib/117273984604539866293",
+    "contributorId": "117273984604539866293"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDc9_qgcA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9v2IxbkWDGV2kn334d9gMQijKSNsk3WjOMzYHtUuAyM2Xv_a3_p-qhxyLzYxLQ-506zCon6JqoSmxNguKxq4ubdXET_dxMh9XMDzQPsL7rgiQArJNyt9ZfrlvFlj9upB1zWRw=w4128-h2322-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9v2IxbkWDGV2kn334d9gMQijKSNsk3WjOMzYHtUuAyM2Xv_a3_p-qhxyLzYxLQ-506zCon6JqoSmxNguKxq4ubdXET_dxMh9XMDzQPsL7rgiQArJNyt9ZfrlvFlj9upB1zWRw=s400-k-no",
+  "width": 4128,
+  "height": 2322,
+  "caption": null,
+  "dateTaken": "2019-01-27",
+  "uploadedAt": "2019-01-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Donne Syahlendra",
+  "contributor": {
+    "name": "Donne Syahlendra",
+    "profileUrl": "https://www.google.com/maps/contrib/107136981947432761074",
+    "contributorId": "107136981947432761074"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICMuIKfIg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8BMiTI0p7Ibdzci_dASe8PqF9k5nP9G7isxOHJ6c5UI1NdcVpeIwJwP-wfZFKjBrs2mO4ZA3XZ2MHJjrTcJn3UQCSzqJvdVPFwOWnzZGga8NqKWdjMnSqYUsreZ3AyraxAw8w=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8BMiTI0p7Ibdzci_dASe8PqF9k5nP9G7isxOHJ6c5UI1NdcVpeIwJwP-wfZFKjBrs2mO4ZA3XZ2MHJjrTcJn3UQCSzqJvdVPFwOWnzZGga8NqKWdjMnSqYUsreZ3AyraxAw8w=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2019-10-05",
+  "uploadedAt": "2019-10-14",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "오이",
+  "contributor": {
+    "name": "오이",
+    "profileUrl": "https://www.google.com/maps/contrib/103714259723390890822",
+    "contributorId": "103714259723390890822"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDchYSsHA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_7dsqImyva7OROOFoPwUlqRUyTV8UWl9hZ9Wr8IDd62WCzLlBeivSs5Gk6zUbiX1Ui4xfYaWY7uZZcLDx3--zw5wuFIaOmZP8LP5V51C9-b7t9vsZs7iPo_KHw1ZDhWkD21mmY=w4128-h3096-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_7dsqImyva7OROOFoPwUlqRUyTV8UWl9hZ9Wr8IDd62WCzLlBeivSs5Gk6zUbiX1Ui4xfYaWY7uZZcLDx3--zw5wuFIaOmZP8LP5V51C9-b7t9vsZs7iPo_KHw1ZDhWkD21mmY=s400-k-no",
+  "width": 4128,
+  "height": 3096,
+  "caption": null,
+  "dateTaken": "2018-07-27",
+  "uploadedAt": "2018-07-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "프리파라 Tv레이나",
+  "contributor": {
+    "name": "프리파라 Tv레이나",
+    "profileUrl": "https://www.google.com/maps/contrib/110032269732951208302",
+    "contributorId": "110032269732951208302"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcyLOGfg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U__b_I2g_7g5hlR_BcbQgy_q4MMJ1IZDQtQbayinQaSrDyd5MlcV30azoeNqNVxR-P_lruutua8GvbPPTTgZsGAQALtQIKUd8ecJKzRfYkbR3Kx5Qv7OLyiBvF9NTrWhWWzzB8=w4032-h1908-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U__b_I2g_7g5hlR_BcbQgy_q4MMJ1IZDQtQbayinQaSrDyd5MlcV30azoeNqNVxR-P_lruutua8GvbPPTTgZsGAQALtQIKUd8ecJKzRfYkbR3Kx5Qv7OLyiBvF9NTrWhWWzzB8=s400-k-no",
+  "width": 4032,
+  "height": 1908,
+  "caption": null,
+  "dateTaken": "2020-01-13",
+  "uploadedAt": "2020-01-18",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Steven Brown",
+  "contributor": {
+    "name": "Steven Brown",
+    "profileUrl": "https://www.google.com/maps/contrib/103811642503451850121",
+    "contributorId": "103811642503451850121"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICRkoG8FQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9Ud0O_m-8aplVZePo8VgICpSUbyVQi2316BfK6KhzCc692haqKO1vDxlWK67QaNwG70hUYmEnRm3NuCFfHS4XV0-yshTOOLyWwgB0Lh-xhA2D2r5vYeXRLcdLe1qg9ywTb8pGL=w550-h413-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9Ud0O_m-8aplVZePo8VgICpSUbyVQi2316BfK6KhzCc692haqKO1vDxlWK67QaNwG70hUYmEnRm3NuCFfHS4XV0-yshTOOLyWwgB0Lh-xhA2D2r5vYeXRLcdLe1qg9ywTb8pGL=s400-k-no",
+  "width": 550,
+  "height": 413,
+  "caption": null,
+  "dateTaken": "2023-03-29",
+  "uploadedAt": "2023-03-29",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "It's Roy",
+  "contributor": {
+    "name": "It's Roy",
+    "profileUrl": "https://www.google.com/maps/contrib/118160158742057288882",
+    "contributorId": "118160158742057288882"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICypMSPzgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_GRYXRu-mlvT7rHOPC7IDCVL6i9SAMOxkgVSHJSLEeMICXmpi6p7bdD2QB9gc3OB7fO9Kf4-ShpRMou0efXKMKKPkkiXPodWrEfyINABrngoNTfTgz0faOeY4dML6jbEqlJvB7tg=w4032-h2268-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_GRYXRu-mlvT7rHOPC7IDCVL6i9SAMOxkgVSHJSLEeMICXmpi6p7bdD2QB9gc3OB7fO9Kf4-ShpRMou0efXKMKKPkkiXPodWrEfyINABrngoNTfTgz0faOeY4dML6jbEqlJvB7tg=s400-k-no",
+  "width": 4032,
+  "height": 2268,
+  "caption": null,
+  "dateTaken": "2021-01-15",
+  "uploadedAt": "2021-01-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Pawan Saxena",
+  "contributor": {
+    "name": "Pawan Saxena",
+    "profileUrl": "https://www.google.com/maps/contrib/102109443658740512641",
+    "contributorId": "102109443658740512641"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDu25Sr9wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-A9EHL5rxEV9mQfYXiNklw6db1ZNTPYQD0xE07kWea_MT1Z_W6YQYJ23XOIOz-LljImElN5wSoLkYkNLsPdfgeClM0HvRBOQzn38M4BOjoAYfeX5bpE23xinSambvQtFGPLVJy=w5599-h3143-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-A9EHL5rxEV9mQfYXiNklw6db1ZNTPYQD0xE07kWea_MT1Z_W6YQYJ23XOIOz-LljImElN5wSoLkYkNLsPdfgeClM0HvRBOQzn38M4BOjoAYfeX5bpE23xinSambvQtFGPLVJy=s400-k-no",
+  "width": 5599,
+  "height": 3143,
+  "caption": null,
+  "dateTaken": "2022-08-30",
+  "uploadedAt": "2022-08-30",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Jonathan Gill",
+  "contributor": {
+    "name": "Jonathan Gill",
+    "profileUrl": "https://www.google.com/maps/contrib/117173839494151852353",
+    "contributorId": "117173839494151852353"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDpkq-f8wE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8uItVotjaNmzBOI8De94ZbnOw35nrI5iHq-NkOqF02JHV874x2fVt36ld-NZZu48rv-pAwLFyKmM0K5haTZl65QvB6FTdSw9xWLggCD_j25aQPuMkBgMLYIPMzz9kqp8aAsK35zg=w1848-h4000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8uItVotjaNmzBOI8De94ZbnOw35nrI5iHq-NkOqF02JHV874x2fVt36ld-NZZu48rv-pAwLFyKmM0K5haTZl65QvB6FTdSw9xWLggCD_j25aQPuMkBgMLYIPMzz9kqp8aAsK35zg=s400-k-no",
+  "width": 1848,
+  "height": 4000,
+  "caption": null,
+  "dateTaken": "2023-08-09",
+  "uploadedAt": "2023-08-19",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "joelacs (joelacs)",
+  "contributor": {
+    "name": "joelacs (joelacs)",
+    "profileUrl": "https://www.google.com/maps/contrib/105835818138011810132",
+    "contributorId": "105835818138011810132"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICE78OrxgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9f9EYcNg1cFR_du4DpqVmFY-qOaKAaw6stCaCtOo2RcGUa4UMBYTSh8TxH895BROCQ1r_uUVq-iiZnT42Len7vSwIcT-5r4A7r4yW4ruhnIAySPi76Fma4B6msbzlzzuhrlECKSA=w2322-h4128-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9f9EYcNg1cFR_du4DpqVmFY-qOaKAaw6stCaCtOo2RcGUa4UMBYTSh8TxH895BROCQ1r_uUVq-iiZnT42Len7vSwIcT-5r4A7r4yW4ruhnIAySPi76Fma4B6msbzlzzuhrlECKSA=s400-k-no",
+  "width": 2322,
+  "height": 4128,
+  "caption": null,
+  "dateTaken": "2014-10-08",
+  "uploadedAt": "2019-06-16",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Trevor Scott",
+  "contributor": {
+    "name": "Trevor Scott",
+    "profileUrl": "https://www.google.com/maps/contrib/109783562087735537305",
+    "contributorId": "109783562087735537305"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICE_pGvXQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DxPej3mzvSONozyizDY59E42X2QeUyiEWBIL1cqk76tbWriFU5P4m4MlHI1DJew7INevkDHIF49J11a1Q5K_KCpcekAwrLc18j67HGbwRXtuum5biTWDu11sPG8D-TPgzzZo=w960-h960-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DxPej3mzvSONozyizDY59E42X2QeUyiEWBIL1cqk76tbWriFU5P4m4MlHI1DJew7INevkDHIF49J11a1Q5K_KCpcekAwrLc18j67HGbwRXtuum5biTWDu11sPG8D-TPgzzZo=s400-k-no",
+  "width": 960,
+  "height": 960,
+  "caption": null,
+  "dateTaken": "2019-01-26",
+  "uploadedAt": "2019-01-26",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Juergen Wiedenhofer",
+  "contributor": {
+    "name": "Juergen Wiedenhofer",
+    "profileUrl": "https://www.google.com/maps/contrib/107162560917377189240",
+    "contributorId": "107162560917377189240"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID45MTJAg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-hPyOM2-nMyEPamWIFb3X4MM4s84W8H7b_d8Zip3pZqw3VsNIhGbNC2INvvem7Z96hPDkwyBWob5OBvNI4bee_ElZF1gc1JQkGivwrkGxg_7rtYlwqePsWdg7bYLF_7EqHXCcY=w640-h640-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-hPyOM2-nMyEPamWIFb3X4MM4s84W8H7b_d8Zip3pZqw3VsNIhGbNC2INvvem7Z96hPDkwyBWob5OBvNI4bee_ElZF1gc1JQkGivwrkGxg_7rtYlwqePsWdg7bYLF_7EqHXCcY=s400-k-no",
+  "width": 640,
+  "height": 640,
+  "caption": null,
+  "dateTaken": "2017-10-19",
+  "uploadedAt": "2019-04-22",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "세상의 모든 삶",
+  "contributor": {
+    "name": "세상의 모든 삶",
+    "profileUrl": "https://www.google.com/maps/contrib/102930559078540748335",
+    "contributorId": "102930559078540748335"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhAfP3hxLI9cBVnC1ayuSaIU",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U84agQN1Z0e_gXE7OUtUHEIR5z2dqbL6cnvCSf1kwbFs_RE9dL61G-63ztlJsBVN6rIm84DfxiIfdFYtRDbG8m8z3XR3cBax0oBMRzeLQmWKRTcyqd1CEussSNXw77a9AznWsJtg8kRIH0=w4000-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U84agQN1Z0e_gXE7OUtUHEIR5z2dqbL6cnvCSf1kwbFs_RE9dL61G-63ztlJsBVN6rIm84DfxiIfdFYtRDbG8m8z3XR3cBax0oBMRzeLQmWKRTcyqd1CEussSNXw77a9AznWsJtg8kRIH0=s400-k-no",
+  "width": 4000,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2026-07-10",
+  "uploadedAt": "2026-07-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Albert Claver",
+  "contributor": {
+    "name": "Albert Claver",
+    "profileUrl": "https://www.google.com/maps/contrib/109866295507358516076",
+    "contributorId": "109866295507358516076"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhCHcTDvRczFmCRz2EV8Bdea",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9rUfto4wvdgskzYVwNXKVWsnfRHOJ3_wO7EJNeiGUGB3j92_8ml7T3jwrdhLayQ6urXs9sN-fi2mLNvhTd3038EehHJXmQ9l7PR2dgJCIUt8YIRrKAAchFYA0NK5fd3cx2lvepI5tSp-Q=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9rUfto4wvdgskzYVwNXKVWsnfRHOJ3_wO7EJNeiGUGB3j92_8ml7T3jwrdhLayQ6urXs9sN-fi2mLNvhTd3038EehHJXmQ9l7PR2dgJCIUt8YIRrKAAchFYA0NK5fd3cx2lvepI5tSp-Q=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2025-09-17",
+  "uploadedAt": "2025-09-26",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Alexandr Kodatenko",
+  "contributor": {
+    "name": "Alexandr Kodatenko",
+    "profileUrl": "https://www.google.com/maps/contrib/115517769494622457450",
+    "contributorId": "115517769494622457450"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDcpaCoUw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_xstP_HUF3818TCX3xqLe-3v_ZwMI7_cSy7S4F9lpjpE2m4ecyNqsDyPqdifDL2Jc7xPjdtR8EzEDxqRV_fATnUF0flZJEl3bGg_yNpmYHa3SBshDoVDRpcSi07RJR-BSK0Cw=w14000-h7000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_xstP_HUF3818TCX3xqLe-3v_ZwMI7_cSy7S4F9lpjpE2m4ecyNqsDyPqdifDL2Jc7xPjdtR8EzEDxqRV_fATnUF0flZJEl3bGg_yNpmYHa3SBshDoVDRpcSi07RJR-BSK0Cw=s400-k-no",
+  "width": 14000,
+  "height": 7000,
+  "caption": null,
+  "dateTaken": "2014-06-23",
+  "uploadedAt": "2014-06-26",
+  "photoType": "OWNER",
+  "mediaFormat": "PANORAMA_360",
+  "contributorName": "Sydney Opera House",
+  "contributor": {
+    "name": "Sydney Opera House",
+    "profileUrl": "https://www.google.com/maps/contrib/104638486623707479945",
+    "contributorId": "104638486623707479945"
+  },
+  "geo": {
+    "latitude": -33.85756620524428,
+    "longitude": 151.214413013599
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIABIhDmV-VIdAT-Mp2q3_yPCz4_",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9l1R4H7ireFr4hU2Gf1Ooo7WNCXP28UBBcnL-kLes3cuXmWHP3I-BEx3sZakDmvFqq4xc8cHclZoapmmCgf528W9t0T8_UDFrg_j6wdktVP9T1srbSo3_eqCuX8sThxtyWCV2hYGAX24s5=w15262-h10175-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9l1R4H7ireFr4hU2Gf1Ooo7WNCXP28UBBcnL-kLes3cuXmWHP3I-BEx3sZakDmvFqq4xc8cHclZoapmmCgf528W9t0T8_UDFrg_j6wdktVP9T1srbSo3_eqCuX8sThxtyWCV2hYGAX24s5=s400-k-no",
+  "width": 15262,
+  "height": 10175,
+  "caption": null,
+  "dateTaken": "2026-02-01",
+  "uploadedAt": "2026-02-03",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Paul Zernicke",
+  "contributor": {
+    "name": "Paul Zernicke",
+    "profileUrl": "https://www.google.com/maps/contrib/101656929627696405186",
+    "contributorId": "101656929627696405186"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICE9ajI_gE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_hv47E3pd920vTVifJ2cCQksivm6CURekn59DJUtfRIXEkOXPLMh8eoVpO6imQTR4o6WDBk6KQpgWZTR4Mlrq7gwWagoCdSf1ui1BHhfbZz2oB7dTCOVX_rmzCdjoU7SxVXJYDsA=w4608-h2592-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_hv47E3pd920vTVifJ2cCQksivm6CURekn59DJUtfRIXEkOXPLMh8eoVpO6imQTR4o6WDBk6KQpgWZTR4Mlrq7gwWagoCdSf1ui1BHhfbZz2oB7dTCOVX_rmzCdjoU7SxVXJYDsA=s400-k-no",
+  "width": 4608,
+  "height": 2592,
+  "caption": null,
+  "dateTaken": "2015-10-16",
+  "uploadedAt": "2018-01-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Giampiero Momo",
+  "contributor": {
+    "name": "Giampiero Momo",
+    "profileUrl": "https://www.google.com/maps/contrib/101490218584131085043",
+    "contributorId": "101490218584131085043"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICc2sHtuwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_bFJ07t0rmSkxFIXx6wYiW-cf0Rv48NEGNtRK3zyUi3YmGhfSu8CJdUf_bGWwZPoF5Gq-aMSUzYrvljfJVZNbycF0SnG1giwjwTWSgm2PVjsse8hlCcmJIqH8i9kJQnrDKHmHN=w5333-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_bFJ07t0rmSkxFIXx6wYiW-cf0Rv48NEGNtRK3zyUi3YmGhfSu8CJdUf_bGWwZPoF5Gq-aMSUzYrvljfJVZNbycF0SnG1giwjwTWSgm2PVjsse8hlCcmJIqH8i9kJQnrDKHmHN=s400-k-no",
+  "width": 5333,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2019-11-21",
+  "uploadedAt": "2019-12-06",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Willi K.",
+  "contributor": {
+    "name": "Willi K.",
+    "profileUrl": "https://www.google.com/maps/contrib/111873074184129609575",
+    "contributorId": "111873074184129609575"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDk2qKTMQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-yk9PaRHiRdSg_6vJbYEtR1TWbMy6kN4FRWWThilTsDrIDVQHHn8TbSLcpmCcWyxNUeQ1K85FdyvsAwKpZI0Xl_3DE-R0E34J0cOjeyGoG_o1-U4Q_o_pMRbc5YCMuRvmAYa-V=w4608-h2304-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-yk9PaRHiRdSg_6vJbYEtR1TWbMy6kN4FRWWThilTsDrIDVQHHn8TbSLcpmCcWyxNUeQ1K85FdyvsAwKpZI0Xl_3DE-R0E34J0cOjeyGoG_o1-U4Q_o_pMRbc5YCMuRvmAYa-V=s400-k-no",
+  "width": 4608,
+  "height": 2304,
+  "caption": null,
+  "dateTaken": "2018-11-20",
+  "uploadedAt": "2018-11-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Binod Pudasaini",
+  "contributor": {
+    "name": "Binod Pudasaini",
+    "profileUrl": "https://www.google.com/maps/contrib/116946064305293142568",
+    "contributorId": "116946064305293142568"
+  },
+  "geo": {
+    "latitude": -33.86094691468479,
+    "longitude": 151.2130105935218
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID0l-_37AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8d6e0FO9CfCt6o5dfLynw5v72iN_OmhmFskdpjX_YeAIIgMg0P9MG7ZBzmdtX8MQPvKkNsoLgS9jm4ykvdh1I7M7Gjo3gQ27selNQEF5iOEgaZyZSkGwOQbgQGCS_wjTScwNxivQ=w3120-h3120-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8d6e0FO9CfCt6o5dfLynw5v72iN_OmhmFskdpjX_YeAIIgMg0P9MG7ZBzmdtX8MQPvKkNsoLgS9jm4ykvdh1I7M7Gjo3gQ27selNQEF5iOEgaZyZSkGwOQbgQGCS_wjTScwNxivQ=s400-k-no",
+  "width": 3120,
+  "height": 3120,
+  "caption": null,
+  "dateTaken": "2019-08-23",
+  "uploadedAt": "2019-08-28",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Levent Mebel",
+  "contributor": {
+    "name": "Levent Mebel",
+    "profileUrl": "https://www.google.com/maps/contrib/101900417395206450251",
+    "contributorId": "101900417395206450251"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID4uaCXxwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9V2kiVL7i7aMuCwgWrVDNdsU-0HjBuFLnvJky3vHnnUB0w_fVZUMMYDZ5VEW0ZeD_j7pWZ13-NBwSGG7oWRrftsEFBpUrW4VFIccyAdOyIQWZbZ9F0hXCnhDs3VJOVj1dwWk5m1w=w998-h661-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9V2kiVL7i7aMuCwgWrVDNdsU-0HjBuFLnvJky3vHnnUB0w_fVZUMMYDZ5VEW0ZeD_j7pWZ13-NBwSGG7oWRrftsEFBpUrW4VFIccyAdOyIQWZbZ9F0hXCnhDs3VJOVj1dwWk5m1w=s400-k-no",
+  "width": 998,
+  "height": 661,
+  "caption": null,
+  "dateTaken": "2014-02-05",
+  "uploadedAt": "2018-12-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Monica Curry",
+  "contributor": {
+    "name": "Monica Curry",
+    "profileUrl": "https://www.google.com/maps/contrib/116790140196609229522",
+    "contributorId": "116790140196609229522"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC4w9aaeA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-ER6F3s9xHGVXX94aU0PC4YXhbBudVQDwzO8FaRehtXzJmX7hf0EkMOHovrB1bc9tqCqkCXOMf5W6eHsKR4Ukq9KDta1-o_LDXrVJrxyPQVdYq32IY5F0zI0RL1CEXrjSr1xbE=w2543-h1236-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-ER6F3s9xHGVXX94aU0PC4YXhbBudVQDwzO8FaRehtXzJmX7hf0EkMOHovrB1bc9tqCqkCXOMf5W6eHsKR4Ukq9KDta1-o_LDXrVJrxyPQVdYq32IY5F0zI0RL1CEXrjSr1xbE=s400-k-no",
+  "width": 2543,
+  "height": 1236,
+  "caption": null,
+  "dateTaken": "2018-04-28",
+  "uploadedAt": "2019-05-04",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Naufal Fadhil",
+  "contributor": {
+    "name": "Naufal Fadhil",
+    "profileUrl": "https://www.google.com/maps/contrib/110046004029569772147",
+    "contributorId": "110046004029569772147"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICc1MuDowE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9swCu98QfANr6rPZ-f7J4hI4qt3pFhw-EfCsNDDSznL-gEd-SuwMRa2eI3K2tgaI7cS_f_YXnzIjqyrXjWTx-sLSUiJeKtqVSQhCDV4GTuF8Ad5cbtUpsTHepVxDUiPyTA80LlRg=w942-h553-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9swCu98QfANr6rPZ-f7J4hI4qt3pFhw-EfCsNDDSznL-gEd-SuwMRa2eI3K2tgaI7cS_f_YXnzIjqyrXjWTx-sLSUiJeKtqVSQhCDV4GTuF8Ad5cbtUpsTHepVxDUiPyTA80LlRg=s400-k-no",
+  "width": 942,
+  "height": 553,
+  "caption": null,
+  "dateTaken": "2020-01-20",
+  "uploadedAt": "2020-02-03",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Soonja Bang",
+  "contributor": {
+    "name": "Soonja Bang",
+    "profileUrl": "https://www.google.com/maps/contrib/117423052141817882527",
+    "contributorId": "117423052141817882527"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICMnJ3_igE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_latJkyiSxAC_Y6UWKKl6eKp957KdQt1PZlAeDuqn30O58VuDKsnQwWhbfLa_qil9tVGHSdToLXVueiqwqJmg10S3bWEj5cpVWwZSRVaG4ik-X8G2OB3xa9cWNIIAKThbuoXF2=w3840-h2160-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_latJkyiSxAC_Y6UWKKl6eKp957KdQt1PZlAeDuqn30O58VuDKsnQwWhbfLa_qil9tVGHSdToLXVueiqwqJmg10S3bWEj5cpVWwZSRVaG4ik-X8G2OB3xa9cWNIIAKThbuoXF2=s400-k-no",
+  "width": 3840,
+  "height": 2160,
+  "caption": null,
+  "dateTaken": "2015-02-08",
+  "uploadedAt": "2019-08-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "蘇美蘭",
+  "contributor": {
+    "name": "蘇美蘭",
+    "profileUrl": "https://www.google.com/maps/contrib/110553088759364070593",
+    "contributorId": "110553088759364070593"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC42p7onwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-lWJRQs6x-cHEiD6cMGhDemZOzMHnT2svt1nHpJ8ccJNZuF8rFsdclXcmXp-CF-yo2gFfVxjNVtSltTMctLMRtQoLf0jfFP86cMnv0FWmy0yqSrslpGa9UMdaefGxmA16WvP2V=w285-h320-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-lWJRQs6x-cHEiD6cMGhDemZOzMHnT2svt1nHpJ8ccJNZuF8rFsdclXcmXp-CF-yo2gFfVxjNVtSltTMctLMRtQoLf0jfFP86cMnv0FWmy0yqSrslpGa9UMdaefGxmA16WvP2V=s400-k-no",
+  "width": 285,
+  "height": 320,
+  "caption": null,
+  "dateTaken": "2017-08-13",
+  "uploadedAt": "2017-08-29",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Safiyyah Hussain",
+  "contributor": {
+    "name": "Safiyyah Hussain",
+    "profileUrl": "https://www.google.com/maps/contrib/111578075267437097414",
+    "contributorId": "111578075267437097414"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICM-oPEhwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8gh2JDChHk0stO0LthQovR_4cO8VeULDzgGCC8zsX-YYEflbEUWEqmQX32iGU7NX1LTd6AsMmRmmvOlkGbDXgeMnKSJRo-SZ_PZzxGh_UIJJDl-2AAfpAnUocLYqlfqg4-bvn-3A=w10461-h1529-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8gh2JDChHk0stO0LthQovR_4cO8VeULDzgGCC8zsX-YYEflbEUWEqmQX32iGU7NX1LTd6AsMmRmmvOlkGbDXgeMnKSJRo-SZ_PZzxGh_UIJJDl-2AAfpAnUocLYqlfqg4-bvn-3A=s400-k-no",
+  "width": 10461,
+  "height": 1529,
+  "caption": null,
+  "dateTaken": "2019-10-25",
+  "uploadedAt": "2019-10-26",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Kevin MB",
+  "contributor": {
+    "name": "Kevin MB",
+    "profileUrl": "https://www.google.com/maps/contrib/117363903546579918090",
+    "contributorId": "117363903546579918090"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDEst-ueQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_9QbtzcOdqWRtE05NUStNk04Te6OZ-g7piWjprlFYkMJDQl0D_mKOJwj9nPcOpxsNJ4TJn4hIPaO_egQXORqTRvshuz2ANIBetYSeBdVW3dtrW5U6SjkhxWncGBYbd2t9owUXB=w3264-h1836-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_9QbtzcOdqWRtE05NUStNk04Te6OZ-g7piWjprlFYkMJDQl0D_mKOJwj9nPcOpxsNJ4TJn4hIPaO_egQXORqTRvshuz2ANIBetYSeBdVW3dtrW5U6SjkhxWncGBYbd2t9owUXB=s400-k-no",
+  "width": 3264,
+  "height": 1836,
+  "caption": null,
+  "dateTaken": "2019-04-28",
+  "uploadedAt": "2019-04-29",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Johnnie",
+  "contributor": {
+    "name": "Johnnie",
+    "profileUrl": "https://www.google.com/maps/contrib/102435142544452771745",
+    "contributorId": "102435142544452771745"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICElriO_AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_Qsn6p8A8sXTT7mlKayVSj8NMYfaOebFQHSwXpI_0KCofZm2SOkw9Go25GMc2O_UkBy53hN4zg-k6E9RLLKy4HH8wShuFZ5wJH-6NlmVoiB72LvLCdTP-zu4tgQ1obok5hoLaNHQ=w5312-h2988-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_Qsn6p8A8sXTT7mlKayVSj8NMYfaOebFQHSwXpI_0KCofZm2SOkw9Go25GMc2O_UkBy53hN4zg-k6E9RLLKy4HH8wShuFZ5wJH-6NlmVoiB72LvLCdTP-zu4tgQ1obok5hoLaNHQ=s400-k-no",
+  "width": 5312,
+  "height": 2988,
+  "caption": null,
+  "dateTaken": "2016-03-29",
+  "uploadedAt": "2018-05-28",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Lyn Humphreys",
+  "contributor": {
+    "name": "Lyn Humphreys",
+    "profileUrl": "https://www.google.com/maps/contrib/107962413959220850752",
+    "contributorId": "107962413959220850752"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICXxoixvgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-kSAdMQ6Zqdefkzin3iAwyU0oAU5jE_O1nPDZQ928MxFBIeePzoQcAWBmY6FIWDqUWtsCWGdBmO7r2z5WY3tVIXC6u-_U1VuHw13_PXpwRpPjCDn0xONcoRqDkYLxpTX_XrOtNZg=w400-h400-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-kSAdMQ6Zqdefkzin3iAwyU0oAU5jE_O1nPDZQ928MxFBIeePzoQcAWBmY6FIWDqUWtsCWGdBmO7r2z5WY3tVIXC6u-_U1VuHw13_PXpwRpPjCDn0xONcoRqDkYLxpTX_XrOtNZg=s400-k-no",
+  "width": 400,
+  "height": 400,
+  "caption": null,
+  "dateTaken": "2050-10-03",
+  "uploadedAt": "2024-10-15",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ilyas El",
+  "contributor": {
+    "name": "Ilyas El",
+    "profileUrl": "https://www.google.com/maps/contrib/118323105028468970160",
+    "contributorId": "118323105028468970160"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID0l-_3JA",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DUt7Roj4QCKSDq1w4OeDXm6R9viqaj8MdWhTfC5UnxgBw8JH07mGcbcUTvRIaWL0agtVaKUfMWKwIqewkuTjx-xdyY9XWBep8X5ZQWrgnoj0uZ4JEJZgnVHEXGmy5nln69qwP=w3120-h3120-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-DUt7Roj4QCKSDq1w4OeDXm6R9viqaj8MdWhTfC5UnxgBw8JH07mGcbcUTvRIaWL0agtVaKUfMWKwIqewkuTjx-xdyY9XWBep8X5ZQWrgnoj0uZ4JEJZgnVHEXGmy5nln69qwP=s400-k-no",
+  "width": 3120,
+  "height": 3120,
+  "caption": null,
+  "dateTaken": "2019-08-23",
+  "uploadedAt": "2019-08-28",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Levent Mebel",
+  "contributor": {
+    "name": "Levent Mebel",
+    "profileUrl": "https://www.google.com/maps/contrib/101900417395206450251",
+    "contributorId": "101900417395206450251"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIC84KT4sAE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-nYr25phEhBw1eEOQshMcZn_fsbi8nvIuYu5IAuzGmBDPukFvz-eDr8Lp8uTiAhPRWG5XNpRH9afIi1qzGvCta4sbBLO07MFwTdbs33E7O_BjoTjyqoeqWnwIekJiiP6ze2-bbFw=w4160-h2340-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-nYr25phEhBw1eEOQshMcZn_fsbi8nvIuYu5IAuzGmBDPukFvz-eDr8Lp8uTiAhPRWG5XNpRH9afIi1qzGvCta4sbBLO07MFwTdbs33E7O_BjoTjyqoeqWnwIekJiiP6ze2-bbFw=s400-k-no",
+  "width": 4160,
+  "height": 2340,
+  "caption": null,
+  "dateTaken": "2017-03-07",
+  "uploadedAt": "2017-03-07",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Mary Annie Knecht",
+  "contributor": {
+    "name": "Mary Annie Knecht",
+    "profileUrl": "https://www.google.com/maps/contrib/105213526631551381138",
+    "contributorId": "105213526631551381138"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICc2eHJuAE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_rE6EBk9cr-JZRHxAFc820ZfJUv2ImEv2OffxsKTYXuV_MEPr67-fYjW4A9wm65eQTk5YG6eNvr2KXf_LXEpCqCfmVIA_ZAQ4vX34fVHaVmOM72YfJeeWP4ouIty27cFBdgZYbRQ=w8457-h1892-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_rE6EBk9cr-JZRHxAFc820ZfJUv2ImEv2OffxsKTYXuV_MEPr67-fYjW4A9wm65eQTk5YG6eNvr2KXf_LXEpCqCfmVIA_ZAQ4vX34fVHaVmOM72YfJeeWP4ouIty27cFBdgZYbRQ=s400-k-no",
+  "width": 8457,
+  "height": 1892,
+  "caption": null,
+  "dateTaken": "2020-03-12",
+  "uploadedAt": "2020-03-15",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Inge Rudiferia",
+  "contributor": {
+    "name": "Inge Rudiferia",
+    "profileUrl": "https://www.google.com/maps/contrib/102407726836981172800",
+    "contributorId": "102407726836981172800"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICM3NimiAE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8EF-HoDmbJzB6GDheP4ihCzKtZb9Q3DXB01XWdlnJWkbNIoykziS2w8q9pPCXE-fJJERufKFOGwuNkKlpt1pe4SS77Dy5lSglkuBytpVuIL74nqZbqRK3DKr8uNgFegIi1tTGYCA=w6119-h2614-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8EF-HoDmbJzB6GDheP4ihCzKtZb9Q3DXB01XWdlnJWkbNIoykziS2w8q9pPCXE-fJJERufKFOGwuNkKlpt1pe4SS77Dy5lSglkuBytpVuIL74nqZbqRK3DKr8uNgFegIi1tTGYCA=s400-k-no",
+  "width": 6119,
+  "height": 2614,
+  "caption": null,
+  "dateTaken": "2019-11-02",
+  "uploadedAt": "2019-11-12",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "范揚泳",
+  "contributor": {
+    "name": "范揚泳",
+    "profileUrl": "https://www.google.com/maps/contrib/105948176940342091183",
+    "contributorId": "105948176940342091183"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICEoqal7AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_-SdmhBMZ8bSg0CswNqDIp_I8gBWIDakhMpTmmsvuS6Oa_J34jluBow3DVT3J2_ybvRV3gKIhSW-nIly19XI0hGV5L7LPjyjE-_b7rX_1xUZdm6pg2iIqhn1t9ljk6-xJhx-BA=w640-h427-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_-SdmhBMZ8bSg0CswNqDIp_I8gBWIDakhMpTmmsvuS6Oa_J34jluBow3DVT3J2_ybvRV3gKIhSW-nIly19XI0hGV5L7LPjyjE-_b7rX_1xUZdm6pg2iIqhn1t9ljk6-xJhx-BA=s400-k-no",
+  "width": 640,
+  "height": 427,
+  "caption": null,
+  "dateTaken": "2016-08-30",
+  "uploadedAt": "2016-08-30",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Susan Zentay",
+  "contributor": {
+    "name": "Susan Zentay",
+    "profileUrl": "https://www.google.com/maps/contrib/102508913590155736403",
+    "contributorId": "102508913590155736403"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDN59vuWw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-VruAudc9kXRXbBVn9v7cIkkAU4zeYyfKVgjRnKMxjcbz8Ib0tFmDC84Emnb6ArMQYmagD3trCgKeVGoM5056xuIrwcBvx53fSRVZ7-3-QMJA_8Aev-_S5uj1wej9_uCN_aPg=w4624-h2084-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-VruAudc9kXRXbBVn9v7cIkkAU4zeYyfKVgjRnKMxjcbz8Ib0tFmDC84Emnb6ArMQYmagD3trCgKeVGoM5056xuIrwcBvx53fSRVZ7-3-QMJA_8Aev-_S5uj1wej9_uCN_aPg=s400-k-no",
+  "width": 4624,
+  "height": 2084,
+  "caption": null,
+  "dateTaken": "2023-05-28",
+  "uploadedAt": "2024-01-26",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Johannes Moritz",
+  "contributor": {
+    "name": "Johannes Moritz",
+    "profileUrl": "https://www.google.com/maps/contrib/109969006014697327628",
+    "contributorId": "109969006014697327628"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICl_oPg0QE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-0EoSa1HyVTr5cPNb-7YFabw6rnAk2-IGgsvfKz1YYsE2B4fQm935YgiL3f3B8VsoVxlj32MG2Ns-RzJt9tKYccmafXmawBrEJW3xRAXBLHCf-7Gugza4SkhW9riKKhvRjDVSFwQ=w3120-h4160-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-0EoSa1HyVTr5cPNb-7YFabw6rnAk2-IGgsvfKz1YYsE2B4fQm935YgiL3f3B8VsoVxlj32MG2Ns-RzJt9tKYccmafXmawBrEJW3xRAXBLHCf-7Gugza4SkhW9riKKhvRjDVSFwQ=s400-k-no",
+  "width": 3120,
+  "height": 4160,
+  "caption": null,
+  "dateTaken": "2023-11-12",
+  "uploadedAt": "2023-11-19",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Carolina Mancini Rudolffi",
+  "contributor": {
+    "name": "Carolina Mancini Rudolffi",
+    "profileUrl": "https://www.google.com/maps/contrib/110923664028485995491",
+    "contributorId": "110923664028485995491"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICcrICuRQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8ukAacli4RDtefuN_uMsIXbi-TrA6JHq7QsBxIcp7QCbIo0tLFswfoMlYleq5Q7vFYFN849znUTsSSZ4ORGQR0NDOwikh4361Fr-XDhrOj5CAUD8UZXpiDwRsXgoBqaRMAZHQ=w3968-h2976-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8ukAacli4RDtefuN_uMsIXbi-TrA6JHq7QsBxIcp7QCbIo0tLFswfoMlYleq5Q7vFYFN849znUTsSSZ4ORGQR0NDOwikh4361Fr-XDhrOj5CAUD8UZXpiDwRsXgoBqaRMAZHQ=s400-k-no",
+  "width": 3968,
+  "height": 2976,
+  "caption": null,
+  "dateTaken": "2019-11-04",
+  "uploadedAt": "2019-11-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Pam Mackenzie",
+  "contributor": {
+    "name": "Pam Mackenzie",
+    "profileUrl": "https://www.google.com/maps/contrib/101852941380005299064",
+    "contributorId": "101852941380005299064"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID-4uqruQE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8lWTWGr2qjwctMrf70FIbUkMLYCrz8YIgXM_i4-1Fmm16_aVkLEuMphke3_H_6xLBCy_bLLntTIK5p5Ng2-e4PvPn6dSGKIdPMs_Thzh9E-gkgJD8HYGr1nmuytM4KNFa8744mMw=w4618-h3464-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U8lWTWGr2qjwctMrf70FIbUkMLYCrz8YIgXM_i4-1Fmm16_aVkLEuMphke3_H_6xLBCy_bLLntTIK5p5Ng2-e4PvPn6dSGKIdPMs_Thzh9E-gkgJD8HYGr1nmuytM4KNFa8744mMw=s400-k-no",
+  "width": 4618,
+  "height": 3464,
+  "caption": null,
+  "dateTaken": "2022-11-24",
+  "uploadedAt": "2022-11-25",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Rodney Phillips",
+  "contributor": {
+    "name": "Rodney Phillips",
+    "profileUrl": "https://www.google.com/maps/contrib/102718154064391033791",
+    "contributorId": "102718154064391033791"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICM2ML-GQ",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_iyvZsFLjioX6DZdkZtdlxkP3w06sdPFE1SeR-uD41aMouinS6xy7tDRza5x6bPi2ot5iBcPfgU3yE_zU2W6r-0_lfxoskD7mMeBjFqndUn41-UWQewLylO1KYW5cKMIxoUcyt=w4160-h3120-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_iyvZsFLjioX6DZdkZtdlxkP3w06sdPFE1SeR-uD41aMouinS6xy7tDRza5x6bPi2ot5iBcPfgU3yE_zU2W6r-0_lfxoskD7mMeBjFqndUn41-UWQewLylO1KYW5cKMIxoUcyt=s400-k-no",
+  "width": 4160,
+  "height": 3120,
+  "caption": null,
+  "dateTaken": "2018-11-07",
+  "uploadedAt": "2019-10-20",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ana-Maria S",
+  "contributor": {
+    "name": "Ana-Maria S",
+    "profileUrl": "https://www.google.com/maps/contrib/110245379394279533790",
+    "contributorId": "110245379394279533790"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDE75WztAE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9p-ZS1fyGN6DnaHQqwpEJ5fG3Qq2SZOtM5MznL38Mjes5AGMNaSL4VrTDvRp9oFEx1NgJCgqi9Ul4D6ik4OZo7O9k_dhbvCbRscQpyZpaF1nwJXu0bAe_RyYm6WRCdm5oX6SL5fw=w4032-h2268-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U9p-ZS1fyGN6DnaHQqwpEJ5fG3Qq2SZOtM5MznL38Mjes5AGMNaSL4VrTDvRp9oFEx1NgJCgqi9Ul4D6ik4OZo7O9k_dhbvCbRscQpyZpaF1nwJXu0bAe_RyYm6WRCdm5oX6SL5fw=s400-k-no",
+  "width": 4032,
+  "height": 2268,
+  "caption": null,
+  "dateTaken": "2019-03-15",
+  "uploadedAt": "2019-03-31",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "조정아",
+  "contributor": {
+    "name": "조정아",
+    "profileUrl": "https://www.google.com/maps/contrib/104433687171673777583",
+    "contributorId": "104433687171673777583"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgID4y7amtwE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-w8Z3gXy6EqHABRMCsLX9nPoh3SSnsgDfpSpk3iGwq5TzQiFurdJH8Lb8J7rlLXpD7_yav0r_KlmuLA-FdaPtDTW-pkrurtiPFwRmTVe8sWk6yTLnXkUnlpVoGpaatgHp8reS-tw=w3456-h4608-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-w8Z3gXy6EqHABRMCsLX9nPoh3SSnsgDfpSpk3iGwq5TzQiFurdJH8Lb8J7rlLXpD7_yav0r_KlmuLA-FdaPtDTW-pkrurtiPFwRmTVe8sWk6yTLnXkUnlpVoGpaatgHp8reS-tw=s400-k-no",
+  "width": 3456,
+  "height": 4608,
+  "caption": null,
+  "dateTaken": "2018-04-18",
+  "uploadedAt": "2018-09-03",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Ersi Economides",
+  "contributor": {
+    "name": "Ersi Economides",
+    "profileUrl": "https://www.google.com/maps/contrib/110363615641775105232",
+    "contributorId": "110363615641775105232"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:42.731Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDRiIKnpgE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_7XY5aRIu_E59Cf9g-ydD-hOohpJjgCvVOYFyNNp_Vaa7kAWjGyA3nP2tSBA9nM8AC6WTO-67FmcgE0akIMxAPS0YpyAW916QmQc5r--KNnTEKbYKP5foXsIMOZLlHxg=w4000-h2252-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_7XY5aRIu_E59Cf9g-ydD-hOohpJjgCvVOYFyNNp_Vaa7kAWjGyA3nP2tSBA9nM8AC6WTO-67FmcgE0akIMxAPS0YpyAW916QmQc5r--KNnTEKbYKP5foXsIMOZLlHxg=s400-k-no",
+  "width": 4000,
+  "height": 2252,
+  "caption": null,
+  "dateTaken": "2023-04-10",
+  "uploadedAt": "2023-04-16",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Kevin WANG",
+  "contributor": {
+    "name": "Kevin WANG",
+    "profileUrl": "https://www.google.com/maps/contrib/104149268538997156213",
+    "contributorId": "104149268538997156213"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:49.123Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDemN7W9AE",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_-JlgSK5k-RW2Tgs1RP9iX4bm27b16pRtVIPE34X97ABmZr6zwYvEZIAWEAEdo8ltlunw6GnB9yplgJ8NhEoIEHiCVkjYgXkQS005odC8su7PNgewIfUuPcMpm0vEN2XD_q_eK_Q=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_-JlgSK5k-RW2Tgs1RP9iX4bm27b16pRtVIPE34X97ABmZr6zwYvEZIAWEAEdo8ltlunw6GnB9yplgJ8NhEoIEHiCVkjYgXkQS005odC8su7PNgewIfUuPcMpm0vEN2XD_q_eK_Q=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-10-01",
+  "uploadedAt": "2022-10-01",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Nelson Ng (Adventure Rider)",
+  "contributor": {
+    "name": "Nelson Ng (Adventure Rider)",
+    "profileUrl": "https://www.google.com/maps/contrib/102631530311844100402",
+    "contributorId": "102631530311844100402"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:49.123Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDelJnZXg",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-uxiKuLRcLHHbLTM52pdv0YHhMA3kLhE_lwnMrFn3KfuVFiun2WJOr91Qzy6rgDe-imLZ6eWW-laQc6dw0-gYOx6dHuqVcM758dlHklvncoeKLnztcU3yWNveuhLslSyZkv3M=w4000-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-uxiKuLRcLHHbLTM52pdv0YHhMA3kLhE_lwnMrFn3KfuVFiun2WJOr91Qzy6rgDe-imLZ6eWW-laQc6dw0-gYOx6dHuqVcM758dlHklvncoeKLnztcU3yWNveuhLslSyZkv3M=s400-k-no",
+  "width": 4000,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2022-08-28",
+  "uploadedAt": "2022-10-03",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Taewon Kim (ATOMY BROADCASTING)",
+  "contributor": {
+    "name": "Taewon Kim (ATOMY BROADCASTING)",
+    "profileUrl": "https://www.google.com/maps/contrib/103837800087186406252",
+    "contributorId": "103837800087186406252"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:49.123Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgICepu3XOw",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-tibMHqfs09411Tk5mVVtdRy3l5oIKq3xj-9scF67y2dsKYGOv4pMy_xXakB-LggHOnFchPEW6Mf5XE7p0Og2EbRbuJrCD-F9FVwoxsj1-ucrpbAAGgyK8onairIdpQPqJ4Hs4=w4032-h3024-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U-tibMHqfs09411Tk5mVVtdRy3l5oIKq3xj-9scF67y2dsKYGOv4pMy_xXakB-LggHOnFchPEW6Mf5XE7p0Og2EbRbuJrCD-F9FVwoxsj1-ucrpbAAGgyK8onairIdpQPqJ4Hs4=s400-k-no",
+  "width": 4032,
+  "height": 3024,
+  "caption": null,
+  "dateTaken": "2022-08-20",
+  "uploadedAt": "2022-09-12",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Vikal Sen",
+  "contributor": {
+    "name": "Vikal Sen",
+    "profileUrl": "https://www.google.com/maps/contrib/117934965473690181326",
+    "contributorId": "117934965473690181326"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:49.123Z"
+},
+{
+  "rowType": "photo",
+  "photoId": "CIHM0ogKEICAgIDhkL4s",
+  "fullResolutionUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_sJkZPQlmBveKqGUXSwMGlJ51eXkKTej0rzJVgKHDU8oKrm37iarz6Mh07s_-3s6OUmL_idgJSdD4ApOYlJ5i-1XTamJDX5Ck_WMO58q-Sy6RNxUS83L50qsXy3b1OhQdHcQ=w4000-h3000-k-no",
+  "thumbnailUrl": "https://lh3.googleusercontent.com/gpms-cs-s/AM4Q-U_sJkZPQlmBveKqGUXSwMGlJ51eXkKTej0rzJVgKHDU8oKrm37iarz6Mh07s_-3s6OUmL_idgJSdD4ApOYlJ5i-1XTamJDX5Ck_WMO58q-Sy6RNxUS83L50qsXy3b1OhQdHcQ=s400-k-no",
+  "width": 4000,
+  "height": 3000,
+  "caption": null,
+  "dateTaken": "2023-02-27",
+  "uploadedAt": "2023-02-27",
+  "photoType": "USER",
+  "mediaFormat": "PHOTO",
+  "contributorName": "Claudio Stornello",
+  "contributor": {
+    "name": "Claudio Stornello",
+    "profileUrl": "https://www.google.com/maps/contrib/101550980349208904846",
+    "contributorId": "101550980349208904846"
+  },
+  "geo": {
+    "latitude": -33.85678437208739,
+    "longitude": 151.2152966806911
+  },
+  "placeName": "Sydney Opera House",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "place": {
+    "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+    "cid": "3545450935484072529",
+    "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+    "name": "Sydney Opera House",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+    "latitude": -33.8567844,
+    "longitude": 151.2152967
+  },
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "scrapedAt": "2026-10-13T15:56:49.123Z"
+},
+{
+  "rowType": "place_summary",
+  "input": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "placeId": "ChIJ3S-JXmauEmsRUcIaWtf4MzE",
+  "cid": "3545450935484072529",
+  "dataId": "0x6b12ae665e892fdd:0x3133f8d75a1ac251",
+  "placeName": "Sydney Opera House",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE&hl=en",
+  "status": "SUCCESS",
+  "coverageStatus": "LIMIT_REACHED",
+  "photosReturned": 100,
+  "photosScanned": 105,
+  "photosFilteredOut": 0,
+  "placePhotosCount": 540630,
+  "error": null,
+  "scrapedAt": "2026-10-13T15:56:49.559Z"
+}]
